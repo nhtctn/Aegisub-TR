@@ -1,0 +1,4788 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aegisub 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-15 10:05-0700\n"
+"PO-Revision-Date: 2020-04-19 06:54+0300\n"
+"Last-Translator: Arslanoglou Georgios <arslanoglou.georgios@gmail.com>\n"
+"Language-Team: Gpower2, Madarb <gpower2@yahoo.com, madarbwot@hotmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: iso-8859-7\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid ""
+"\n"
+"Over 32 MB of fonts were copied. Some of the fonts may not be loaded by the "
+"player if they are all attached to a Matroska file."
+msgstr ""
+"\n"
+"Over 32 MB of fonts were copied. Some of the fonts may not be loaded by the "
+"player if they are all attached to a Matroska file."
+
+msgid ""
+"\n"
+"Script info:\n"
+"Name: %s\n"
+"Description: %s\n"
+"Author: %s\n"
+"Version: %s\n"
+"Full path: %s\n"
+"State: %s\n"
+"\n"
+"Features provided by script:"
+msgstr ""
+"\n"
+"Script info:\n"
+"Name: %s\n"
+"Description: %s\n"
+"Author: %s\n"
+"Version: %s\n"
+"Full path: %s\n"
+"State: %s\n"
+"\n"
+"Features provided by script:"
+
+msgid ""
+"\n"
+"See the help file for full credits.\n"
+msgstr ""
+"\n"
+"See the help file for full credits.\n"
+
+msgid "    Export filter: %s"
+msgstr "    Export filter: %s"
+
+msgid "    Macro: %s (%s)"
+msgstr "    Macro: %s (%s)"
+
+msgid " -> End"
+msgstr " -> End"
+
+msgid "#"
+msgstr "#"
+
+msgid "%d frames (%s)"
+msgstr "%d frames (%s)"
+
+msgid "%d%%, %d pixel/second"
+msgstr "%d%%, %d pixel/second"
+
+msgid "%i matches were replaced."
+msgstr "%i matches were replaced."
+
+msgid "%s - Copy"
+msgstr "%s - Copy"
+
+msgid "%s - Copy (%d)"
+msgstr "%s - Copy (%d)"
+
+msgid "%s [ORIGINAL BACKUP]"
+msgstr "%s [ORIGINAL BACKUP]"
+
+msgid "%s [RECOVERED]"
+msgstr "%s [RECOVERED]"
+
+msgid "%s frames"
+msgstr "%s frames"
+
+msgid "&100%"
+msgstr "&100%"
+
+msgid "&200%"
+msgstr "&200%"
+
+msgid "&50%"
+msgstr "&50%"
+
+msgid "&About"
+msgstr "&About"
+
+msgid "&Accept Line"
+msgstr "&Accept Line"
+
+msgid "&Accept changes"
+msgstr "&Accept changes"
+
+msgid "&Actor Name"
+msgstr "&Actor Name"
+
+msgid "&Add"
+msgstr "&Add"
+
+msgid "&Add to selection"
+msgstr "&Add to selection"
+
+msgid "&After Current"
+msgstr "&After Current"
+
+msgid "&All"
+msgstr "&All"
+
+msgid "&All rows"
+msgstr "&All rows"
+
+msgid "&Audio"
+msgstr "&Audio"
+
+msgid "&Audio+Subs View"
+msgstr "&Audio+Subs View"
+
+msgid "&Auto Check for Updates"
+msgstr "&Auto Check for Updates"
+
+msgid "&Automation..."
+msgstr "&Automation..."
+
+msgid "&Backward"
+msgstr "&Backward"
+
+msgid "&Before Current"
+msgstr "&Before Current"
+
+msgid "&Bold"
+msgstr "&Bold"
+
+msgid "&Browse..."
+msgstr "&Browse..."
+
+msgid "&Bug Tracker..."
+msgstr "&Bug Tracker..."
+
+msgid "&Change aspect ratio"
+msgstr "&Change aspect ratio"
+
+msgid "&Check for Updates..."
+msgstr "&Check for Updates..."
+
+msgid "&Cinematic (2.35)"
+msgstr "&Cinematic (2.35)"
+
+msgid "&Clear"
+msgstr "&Clear"
+
+msgid "&Close"
+msgstr "&Close"
+
+msgid "&Close Audio"
+msgstr "&Close Audio"
+
+msgid "&Close Video"
+msgstr "&Close Video"
+
+msgid "&Comment"
+msgstr "&Comment"
+
+msgid "&Concatenate"
+msgstr "&Concatenate"
+
+msgid "&Constant: "
+msgstr "&Constant: "
+
+msgid "&Contains"
+msgstr "&Contains"
+
+msgid "&Contents"
+msgstr "&Contents"
+
+msgid "&Copy"
+msgstr "&Copy"
+
+msgid "&Copy Lines"
+msgstr "&Copy Lines"
+
+msgid "&Default"
+msgstr "&Default"
+
+msgid "&Delete"
+msgstr "&Delete"
+
+msgid "&Detach Video"
+msgstr "&Detach Video"
+
+msgid "&Doesn't Match"
+msgstr "&Doesn't Match"
+
+msgid "&Duplicate Lines"
+msgstr "&Duplicate Lines"
+
+msgid "&Edit"
+msgstr "&Edit"
+
+msgid "&Effect"
+msgstr "&Effect"
+
+msgid "&Enable"
+msgstr "&Enable"
+
+msgid "&End Time"
+msgstr "&End Time"
+
+msgid "&End times only"
+msgstr "&End times only"
+
+msgid "&Exact match"
+msgstr "&Exact match"
+
+msgid "&Export As..."
+msgstr "&Export As..."
+
+msgid "&Export Subtitles..."
+msgstr "&Export Subtitles..."
+
+msgid "&File"
+msgstr "&File"
+
+msgid "&Find next"
+msgstr "&Find next"
+
+msgid "&Find..."
+msgstr "&Find..."
+
+msgid "&Fonts Collector..."
+msgstr "&Fonts Collector..."
+
+msgid "&Forums"
+msgstr "&Forums"
+
+msgid "&Frames: "
+msgstr "&Frames: "
+
+msgid "&Full view"
+msgstr "&Full view"
+
+msgid "&Fullscreen (4:3)"
+msgstr "&Fullscreen (4:3)"
+
+msgid "&Go Back a Line"
+msgstr "&Go Back a Line"
+
+msgid "&Help"
+msgstr "&Help"
+
+msgid "&Hide Tags"
+msgstr "&Hide Tags"
+
+msgid "&IRC Channel"
+msgstr "&IRC Channel"
+
+msgid "&Ignore"
+msgstr "&Ignore"
+
+msgid "&Import from script..."
+msgstr "&Import from script..."
+
+msgid "&Insert (before)"
+msgstr "&Insert (before)"
+
+msgid "&Insert Lines"
+msgstr "&Insert Lines"
+
+msgid "&Insert Original"
+msgstr "&Insert Original"
+
+msgid "&Italic"
+msgstr "&Italic"
+
+msgid "&Join (concatenate)"
+msgstr "&Join (concatenate)"
+
+msgid "&Jump to..."
+msgstr "&Jump to..."
+
+msgid "&Kanji Timer..."
+msgstr "&Kanji Timer..."
+
+msgid "&Language..."
+msgstr "&Language..."
+
+msgid "&Layer"
+msgstr "&Layer"
+
+msgid "&Link"
+msgstr "&Link"
+
+msgid "&Log window"
+msgstr "&Log window"
+
+msgid "&Make times continuous (change end)"
+msgstr "&Make times continuous (change end)"
+
+msgid "&Make times continuous (change start)"
+msgstr "&Make times continuous (change start)"
+
+msgid "&Match case"
+msgstr "&Match case"
+
+msgid "&Matches"
+msgstr "&Matches"
+
+msgid "&New"
+msgstr "&New"
+
+msgid "&New Subtitles"
+msgstr "&New Subtitles"
+
+msgid "&Next Line"
+msgstr "&Next Line"
+
+msgid "&None"
+msgstr "&None"
+
+msgid "&Opaque box"
+msgstr "&Opaque box"
+
+msgid "&Open Audio File..."
+msgstr "&Open Audio File..."
+
+msgid "&Open Subtitles..."
+msgstr "&Open Subtitles..."
+
+msgid "&Open Video..."
+msgstr "&Open Video..."
+
+msgid "&Options..."
+msgstr "&Options..."
+
+msgid "&Paste"
+msgstr "&Paste"
+
+msgid "&Paste Lines"
+msgstr "&Paste Lines"
+
+msgid "&Preview changes"
+msgstr "&Preview changes"
+
+msgid "&Previous Line"
+msgstr "&Previous Line"
+
+msgid "&Properties..."
+msgstr "&Properties..."
+
+msgid "&Recent"
+msgstr "&Recent"
+
+msgid "&Redo %s"
+msgstr "&Redo %s"
+
+msgid "&Regular Expression match"
+msgstr "&Regular Expression match"
+
+msgid "&Reload Automation scripts"
+msgstr "&Reload Automation scripts"
+
+msgid "&Remove"
+msgstr "&Remove"
+
+msgid "&Replace"
+msgstr "&Replace"
+
+msgid "&Resample Resolution..."
+msgstr "&Resample Resolution..."
+
+msgid "&Restore Defaults"
+msgstr "&Restore Defaults"
+
+msgid "&Reverse transformation"
+msgstr "&Reverse transformation"
+
+msgid "&Save Subtitles"
+msgstr "&Save Subtitles"
+
+msgid "&Seek video to line start time"
+msgstr "&Seek video to line start time"
+
+msgid "&Skip Comments"
+msgstr "&Skip Comments"
+
+msgid "&Spectrum Display"
+msgstr "&Spectrum Display"
+
+msgid "&Start Time"
+msgstr "&Start Time"
+
+msgid "&Start times only"
+msgstr "&Start times only"
+
+msgid "&Start!"
+msgstr "&Start!"
+
+msgid "&Strikeout"
+msgstr "&Strikeout"
+
+msgid "&Style"
+msgstr "&Style"
+
+msgid "&Styles Manager..."
+msgstr "&Styles Manager..."
+
+msgid "&Subtitle"
+msgstr "&Subtitle"
+
+msgid "&Symmetrical"
+msgstr "&Symmetrical"
+
+msgid "&Text"
+msgstr "&Text"
+
+msgid "&Time: "
+msgstr "&Time: "
+
+msgid "&Times"
+msgstr "&Times"
+
+msgid "&Timing"
+msgstr "&Timing"
+
+msgid "&Timing Post-Processor..."
+msgstr "&Timing Post-Processor..."
+
+msgid "&Translation Assistant..."
+msgstr "&Translation Assistant..."
+
+msgid "&Underline"
+msgstr "&Underline"
+
+msgid "&Undo %s"
+msgstr "&Undo %s"
+
+msgid "&Unlink"
+msgstr "&Unlink"
+
+msgid "&Use Dummy Video..."
+msgstr "&Use Dummy Video..."
+
+msgid "&Use regular expressions"
+msgstr "&Use regular expressions"
+
+msgid "&Video"
+msgstr "&Video"
+
+msgid "&Video+Subs View"
+msgstr "&Video+Subs View"
+
+msgid "&Visual Typesetting"
+msgstr "&Visual Typesetting"
+
+msgid "&Waveform Display"
+msgstr "&Waveform Display"
+
+msgid "&Website"
+msgstr "&Website"
+
+msgid "&Widescreen (16:9)"
+msgstr "&Widescreen (16:9)"
+
+msgid "'%s' does not have a bold variant.\n"
+msgstr "'%s' does not have a bold variant.\n"
+
+msgid "'%s' does not have an italic variant.\n"
+msgstr "'%s' does not have an italic variant.\n"
+
+msgid "'%s' is missing %d glyphs used.\n"
+msgstr "'%s' is missing %d glyphs used.\n"
+
+msgid "'%s' is missing the following glyphs used: %s\n"
+msgstr "'%s' is missing the following glyphs used: %s\n"
+
+msgid "'%s' is not a valid command name"
+msgstr "'%s' is not a valid command name"
+
+msgid "(Un)Load files?"
+msgstr "(Un)Load files?"
+
+msgid "* %s already exists on destination.\n"
+msgstr "* %s already exists on destination.\n"
+
+msgid "* Copied %s.\n"
+msgstr "* Copied %s.\n"
+
+msgid "* Failed to copy %s.\n"
+msgstr "* Failed to copy %s.\n"
+
+msgid "* Failed to create directory '%s': %s.\n"
+msgstr "* Failed to create directory '%s': %s.\n"
+
+msgid "* Failed to open %s.\n"
+msgstr "* Failed to open %s.\n"
+
+msgid "* Symlinked %s.\n"
+msgstr "* Symlinked %s.\n"
+
+msgid "0: Fatal"
+msgstr "0: Fatal"
+
+msgid "0: Smart wrapping, top line is wider"
+msgstr "0: Smart wrapping, top line is wider"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "119.880 FPS (NTSC x4)"
+msgstr "119.880 FPS (NTSC x4)"
+
+msgid "120.000 FPS"
+msgstr "120.000 FPS"
+
+msgid "15.000 FPS"
+msgstr "15.000 FPS"
+
+msgid "1: End-of-line word wrapping, only \\N breaks"
+msgstr "1: End-of-line word wrapping, only \\N breaks"
+
+msgid "1: Error"
+msgstr "1: Error"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "23.976 FPS (Decimated NTSC)"
+msgstr "23.976 FPS (Decimated NTSC)"
+
+msgid "23.976 fps (non-standard, STL24.01)"
+msgstr "23.976 fps (non-standard, STL24.01)"
+
+msgid "24 fps (non-standard, STL24.01)"
+msgstr "24 fps (non-standard, STL24.01)"
+
+msgid "24.000 FPS (FILM)"
+msgstr "24.000 FPS (FILM)"
+
+msgid "25 fps (STL25.01)"
+msgstr "25 fps (STL25.01)"
+
+msgid "25.000 FPS (PAL)"
+msgstr "25.000 FPS (PAL)"
+
+msgid "29.97 fps (dropframe, STL30.01)"
+msgstr "29.97 fps (dropframe, STL30.01)"
+
+msgid "29.97 fps (non-dropframe, STL30.01)"
+msgstr "29.97 fps (non-dropframe, STL30.01)"
+
+msgid "29.970 FPS (NTSC with SMPTE dropframe)"
+msgstr "29.970 FPS (NTSC with SMPTE dropframe)"
+
+msgid "29.970 FPS (NTSC)"
+msgstr "29.970 FPS (NTSC)"
+
+msgid "2: No word wrapping, both \\n and \\N break"
+msgstr "2: No word wrapping, both \\n and \\N break"
+
+msgid "2: Warning"
+msgstr "2: Warning"
+
+msgid "30 fps (STL30.01)"
+msgstr "30 fps (STL30.01)"
+
+msgid "30.000 FPS"
+msgstr "30.000 FPS"
+
+msgid "3: Hint"
+msgstr "3: Hint"
+
+msgid "3: Smart wrapping, bottom line is wider"
+msgstr "3: Smart wrapping, bottom line is wider"
+
+msgid "4: Debug"
+msgstr "4: Debug"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "50.000 FPS (PAL x2)"
+msgstr "50.000 FPS (PAL x2)"
+
+msgid "59.940 FPS (NTSC x2)"
+msgstr "59.940 FPS (NTSC x2)"
+
+msgid "5: Trace"
+msgstr "5: Trace"
+
+msgid "60.000 FPS"
+msgstr "60.000 FPS"
+
+msgid "<- Copy to &storage"
+msgstr "<- Copy to &storage"
+
+msgid "A catalog with that name already exists."
+msgstr "A catalog with that name already exists."
+
+msgid "A demo macro showing how to do simple line modification in Automation 4"
+msgstr ""
+"A demo macro showing how to do simple line modification in Automation 4"
+
+msgid "A&ctor"
+msgstr "A&ctor"
+
+msgid "A&ll rows"
+msgstr "A&ll rows"
+
+msgid "A&ttachments..."
+msgstr "A&ttachments..."
+
+msgid "A&utomation"
+msgstr "A&utomation"
+
+msgid "ANSI"
+msgstr "ANSI"
+
+msgid "ASS Override Tag mode set to hide tags."
+msgstr "ASS Override Tag mode set to hide tags."
+
+msgid "ASS Override Tag mode set to show full tags."
+msgstr "ASS Override Tag mode set to show full tags."
+
+msgid "ASS Override Tag mode set to simplify tags."
+msgstr "ASS Override Tag mode set to simplify tags."
+
+msgid "ASSDraw3"
+msgstr "ASSDraw3"
+
+msgid "ASSDraw3..."
+msgstr "ASSDraw3..."
+
+msgid "Abort"
+msgstr "Abort"
+
+msgid "Abort if any lines are too long"
+msgstr "Abort if any lines are too long"
+
+msgid "About"
+msgstr "About"
+
+msgid "About Aegisub"
+msgstr "About Aegisub"
+
+msgid "Accept changes"
+msgstr "Accept changes"
+
+msgid "Act&or"
+msgstr "Act&or"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Active Line Border"
+msgstr "Active Line Border"
+
+msgid "Actor"
+msgstr "Actor"
+
+msgid "Actor Name"
+msgstr "Actor Name"
+
+msgid ""
+"Actor name for this speech. This is only for reference, and is mainly "
+"useless."
+msgstr ""
+"Actor name for this speech. This is only for reference, and is mainly "
+"useless."
+
+msgid "Actor separator:"
+msgstr "Actor separator:"
+
+msgid "Add \"%s\" to dictionary"
+msgstr "Add \"%s\" to dictionary"
+
+msgid "Add Automation script"
+msgstr "Add Automation script"
+
+msgid "Add both lead in and out to the selected lines"
+msgstr "Add both lead in and out to the selected lines"
+
+msgid "Add edgeblur"
+msgstr "Add edgeblur"
+
+msgid "Add lead &in:"
+msgstr "Add lead &in:"
+
+msgid "Add lead &out:"
+msgstr "Add lead &out:"
+
+msgid "Add lead in"
+msgstr "Add lead in"
+
+msgid "Add lead in and out"
+msgstr "Add lead in and out"
+
+msgid "Add lead out"
+msgstr "Add lead out"
+
+msgid "Add the lead in time to the selected lines"
+msgstr "Add the lead in time to the selected lines"
+
+msgid "Add the lead out time to the selected lines"
+msgstr "Add the lead out time to the selected lines"
+
+msgid "Add to &dictionary"
+msgstr "Add to &dictionary"
+
+msgid "Adds \\be1 tags to all selected lines"
+msgstr "Adds \\be1 tags to all selected lines"
+
+msgid "Advanced"
+msgstr "Advanced"
+
+msgid "Aegisub"
+msgstr "Aegisub"
+
+msgid ""
+"Aegisub could not narrow down the character set to a single one.\n"
+"Please pick one below:"
+msgstr ""
+"Aegisub could not narrow down the character set to a single one.\n"
+"Please pick one below:"
+
+msgid "Aegisub has finished checking spelling of this script."
+msgstr "Aegisub has finished checking spelling of this script."
+
+msgid "Aegisub has found no spelling mistakes in this script."
+msgstr "Aegisub has found no spelling mistakes in this script."
+
+msgid "Affect"
+msgstr "Affect"
+
+msgid "Affect &selection only"
+msgstr "Affect &selection only"
+
+msgid "After Current"
+msgstr "After Current"
+
+msgid "After Current, at Video Time"
+msgstr "After Current, at Video Time"
+
+msgid "Alignment"
+msgstr "Alignment"
+
+msgid "Alignment in screen, in numpad style"
+msgstr "Alignment in screen, in numpad style"
+
+msgid "All Files"
+msgstr "All Files"
+
+msgid "All Supported Formats"
+msgstr "All Supported Formats"
+
+msgid "All fonts found.\n"
+msgstr "All fonts found.\n"
+
+msgid "All scripts"
+msgstr "All scripts"
+
+msgid "Allow pre-2.56a Avisynth"
+msgstr "Allow pre-2.56a Avisynth"
+
+msgid "Alpha:"
+msgstr "Alpha:"
+
+msgid "Always"
+msgstr "Always"
+
+msgid "Always index all audio tracks"
+msgstr "Always index all audio tracks"
+
+msgid ""
+"An unexpected error has occurred. Please save your work and restart "
+"Aegisub.\n"
+"\n"
+"Error Message: %s"
+msgstr ""
+"An unexpected error has occurred. Please save your work and restart "
+"Aegisub.\n"
+"\n"
+"Error Message: %s"
+
+msgid "An unknown error occurred while checking for updates to Aegisub."
+msgstr "An unknown error occurred while checking for updates to Aegisub."
+
+msgid "An update to Aegisub was found."
+msgstr "An update to Aegisub was found."
+
+msgid "Angle to rotate in Z axis, in degrees"
+msgstr "Angle to rotate in Z axis, in degrees"
+
+msgid "Appends a bezier bicubic curve"
+msgstr "Appends a bezier bicubic curve"
+
+msgid "Appends a line"
+msgstr "Appends a line"
+
+msgid "Applies karaoke effects from templates"
+msgstr "Applies karaoke effects from templates"
+
+msgid ""
+"Apply karaoke effect templates to the subtitles.\n"
+"\n"
+"See the help file for information on how to use this."
+msgstr ""
+"Apply karaoke effect templates to the subtitles.\n"
+"\n"
+"See the help file for information on how to use this."
+
+msgid "Apply karaoke template"
+msgstr "Apply karaoke template"
+
+msgid "Apply to styles"
+msgstr "Apply to styles"
+
+msgid "Arabic"
+msgstr "Arabic"
+
+msgid ""
+"Are you sure that you want to restore the defaults? All your settings will "
+"be overridden."
+msgstr ""
+"Are you sure that you want to restore the defaults? All your settings will "
+"be overridden."
+
+msgid "Are you sure you want to delete the storage \"%s\" from the catalog?"
+msgstr "Are you sure you want to delete the storage \"%s\" from the catalog?"
+
+msgid "Are you sure you want to delete this style?"
+msgid_plural "Are you sure you want to delete these %d styles?"
+msgstr[0] "Are you sure you want to delete this style?"
+msgstr[1] "Are you sure you want to delete these %d styles?"
+
+msgid "Are you sure? This cannot be undone!"
+msgstr "Are you sure? This cannot be undone!"
+
+msgid "As &Karaoke"
+msgstr "As &Karaoke"
+
+msgid "As Karaoke"
+msgstr "As Karaoke"
+
+msgid "Ask"
+msgstr "Ask"
+
+msgid "Attach &Font"
+msgstr "Attach &Font"
+
+msgid "Attach &Graphics"
+msgstr "Attach &Graphics"
+
+msgid "Attachment List"
+msgstr "Attachment List"
+
+msgid "Attachment name"
+msgstr "Attachment name"
+
+msgid "Attachments"
+msgstr "Attachments"
+
+msgid "Attempt to &interpolate kanji."
+msgstr "Attempt to &interpolate kanji."
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Audio Color Schemes"
+msgstr "Audio Color Schemes"
+
+msgid "Audio Display"
+msgstr "Audio Display"
+
+msgid "Audio Formats"
+msgstr "Audio Formats"
+
+msgid "Audio Volume"
+msgstr "Audio Volume"
+
+msgid "Audio indexing error handling mode"
+msgstr "Audio indexing error handling mode"
+
+msgid "Audio labels"
+msgstr "Audio labels"
+
+msgid "Audio player"
+msgstr "Audio player"
+
+msgid "Audio provider"
+msgstr "Audio provider"
+
+msgid "Audio+Subs View"
+msgstr "Audio+Subs View"
+
+msgid "Auto go to next line on commit"
+msgstr "Auto go to next line on commit"
+
+msgid "Auto scroll audio display to selected line"
+msgstr "Auto scroll audio display to selected line"
+
+msgid "Auto-focus on mouse over"
+msgstr "Auto-focus on mouse over"
+
+msgid "Auto-load path"
+msgstr "Auto-load path"
+
+msgid "Automatic Backup"
+msgstr "Automatic Backup"
+
+msgid "Automatic Save"
+msgstr "Automatic Save"
+
+msgid "Automatic karaoke lead-in"
+msgstr "Automatic karaoke lead-in"
+
+msgid "Automatically check for new versions of Aegisub"
+msgstr "Automatically check for new versions of Aegisub"
+
+msgid "Automatically commit all changes"
+msgstr "Automatically commit all changes"
+
+msgid "Automatically go to next line on commit"
+msgstr "Automatically go to next line on commit"
+
+msgid "Automatically load linked files"
+msgstr "Automatically load linked files"
+
+msgid "Automatically open audio when opening video"
+msgstr "Automatically open audio when opening video"
+
+msgid "Automatically wrap long lines (ASS)"
+msgstr "Automatically wrap long lines (ASS)"
+
+msgid "Automatically wrap long lines (Balanced)"
+msgstr "Automatically wrap long lines (Balanced)"
+
+msgid "Automation"
+msgstr "Automation"
+
+msgid "Automation Manager"
+msgstr "Automation Manager"
+
+msgid "Automation Script Info"
+msgstr "Automation Script Info"
+
+msgid "Autoreload on Export"
+msgstr "Autoreload on Export"
+
+msgid "Autosave after every change"
+msgstr "Autosave after every change"
+
+msgid "Avisynth down-mixer"
+msgstr "Avisynth down-mixer"
+
+msgid "Avisynth memory limit"
+msgstr "Avisynth memory limit"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "Baltic"
+msgstr "Baltic"
+
+msgid "Base path"
+msgstr "Base path"
+
+msgid "Before Current"
+msgstr "Before Current"
+
+msgid "Before Current, at Video Time"
+msgstr "Before Current, at Video Time"
+
+msgid "Below Normal (recommended)"
+msgstr "Below Normal (recommended)"
+
+msgid "Better quality"
+msgstr "Better quality"
+
+msgid "Bias: Start <- "
+msgstr "Bias: Start <- "
+
+msgid "Bicubic"
+msgstr "Bicubic"
+
+msgid "Blue:"
+msgstr "Blue:"
+
+msgid "Brackets"
+msgstr "Brackets"
+
+msgid "Browse..."
+msgstr "Browse..."
+
+msgid "Buffer latency"
+msgstr "Buffer latency"
+
+msgid "Buffer length"
+msgstr "Buffer length"
+
+msgid "Bug Tracker"
+msgstr "Bug Tracker"
+
+msgid "Built by %s on %s."
+msgstr "Built by %s on %s."
+
+msgid "C&ustom..."
+msgstr "C&ustom..."
+
+msgid "CPS"
+msgstr "CPS"
+
+msgid "CPS Error"
+msgstr "CPS Error"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Cache memory max (MB)"
+msgstr "Cache memory max (MB)"
+
+msgid "Cache type"
+msgstr "Cache type"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Cancelling..."
+msgstr "Cancelling..."
+
+msgid "Catalog name conflict"
+msgstr "Catalog name conflict"
+
+msgid "Catalog of available storages"
+msgstr "Catalog of available storages"
+
+msgid "Change &End"
+msgstr "Change &End"
+
+msgid "Change &Start"
+msgstr "Change &Start"
+
+msgid "Change End"
+msgstr "Change End"
+
+msgid "Change Start"
+msgstr "Change Start"
+
+msgid "Change end times of lines to the next line's start time"
+msgstr "Change end times of lines to the next line's start time"
+
+msgid "Change karaoke tag to \\k"
+msgstr "Change karaoke tag to \\k"
+
+msgid "Change karaoke tag to \\kf"
+msgstr "Change karaoke tag to \\kf"
+
+msgid "Change karaoke tag to \\ko"
+msgstr "Change karaoke tag to \\ko"
+
+msgid "Change start times of lines to the previous line's end time"
+msgstr "Change start times of lines to the previous line's end time"
+
+msgid ""
+"Changing these settings might result in bugs and/or crashes.  Do not touch "
+"these unless you know what you're doing."
+msgstr ""
+"Changing these settings might result in bugs and/or crashes.  Do not touch "
+"these unless you know what you're doing."
+
+msgid "Character Counter"
+msgstr "Character Counter"
+
+msgid "Character spacing, in pixels"
+msgstr "Character spacing, in pixels"
+
+msgid "Characters Per Second"
+msgstr "Characters Per Second"
+
+msgid "Characters Per Second Error Threshold"
+msgstr "Characters Per Second Error Threshold"
+
+msgid "Characters Per Second Warning Threshold"
+msgstr "Characters Per Second Warning Threshold"
+
+msgid "Charset"
+msgstr "Charset"
+
+msgid "Check fonts for availability"
+msgstr "Check fonts for availability"
+
+msgid "Check for Updates"
+msgstr "Check for Updates"
+
+msgid "Check for updates on startup"
+msgstr "Check for updates on startup"
+
+msgid "Check for updates?"
+msgstr "Check for updates?"
+
+msgid "Check to see if there is a new version of Aegisub available"
+msgstr "Check to see if there is a new version of Aegisub available"
+
+msgid "Checkerboard &pattern"
+msgstr "Checkerboard &pattern"
+
+msgid "Chinese BIG5"
+msgstr "Chinese BIG5"
+
+msgid "Choose audio track"
+msgstr "Choose audio track"
+
+msgid "Choose character set"
+msgstr "Choose character set"
+
+msgid "Choose charset code:"
+msgstr "Choose charset code:"
+
+msgid "Choose file to be attached"
+msgstr "Choose file to be attached"
+
+msgid "Choose outline color"
+msgstr "Choose outline color"
+
+msgid "Choose primary color"
+msgstr "Choose primary color"
+
+msgid "Choose secondary color"
+msgstr "Choose secondary color"
+
+msgid "Choose shadow color"
+msgstr "Choose shadow color"
+
+msgid "Choose styles to import:"
+msgstr "Choose styles to import:"
+
+msgid ""
+"Choose the folder where the fonts will be collected to. It will be created "
+"if it doesn't exist."
+msgstr ""
+"Choose the folder where the fonts will be collected to. It will be created "
+"if it doesn't exist."
+
+msgid "Choose video track"
+msgstr "Choose video track"
+
+msgid "Choose which track to read:"
+msgstr "Choose which track to read:"
+
+msgid "Choose..."
+msgstr "Choose..."
+
+msgid "Cinematic (2.35)"
+msgstr "Cinematic (2.35)"
+
+msgid "Clean Script Info"
+msgstr "Clean Script Info"
+
+msgid "Clean Tags"
+msgstr "Clean Tags"
+
+msgid ""
+"Clean subtitle lines by re-arranging ASS tags and override blocks within the "
+"lines"
+msgstr ""
+"Clean subtitle lines by re-arranging ASS tags and override blocks within the "
+"lines"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Clear Text"
+msgstr "Clear Text"
+
+msgid "Clear the current line's text"
+msgstr "Clear the current line's text"
+
+msgid "Clear the current line's text, leaving override tags"
+msgstr "Clear the current line's text, leaving override tags"
+
+msgid "Click on list"
+msgstr "Click on list"
+
+msgid "Clip"
+msgstr "Clip"
+
+msgid "Clip subtitles to a rectangle"
+msgstr "Clip subtitles to a rectangle"
+
+msgid "Clip subtitles to a vectorial area"
+msgstr "Clip subtitles to a vectorial area"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Close Audio"
+msgstr "Close Audio"
+
+msgid "Close Keyframes"
+msgstr "Close Keyframes"
+
+msgid "Close Timecodes File"
+msgstr "Close Timecodes File"
+
+msgid "Close Video"
+msgstr "Close Video"
+
+msgid "Close the currently open audio file"
+msgstr "Close the currently open audio file"
+
+msgid "Close the currently open timecodes file"
+msgstr "Close the currently open timecodes file"
+
+msgid "Close the currently open video file"
+msgstr "Close the currently open video file"
+
+msgid "Collision foreground"
+msgstr "Collision foreground"
+
+msgid "Color of preview background"
+msgstr "Color of preview background"
+
+msgid "Color spectrum"
+msgstr "Color spectrum"
+
+msgid "Color:"
+msgstr "Color:"
+
+msgid "Colors"
+msgstr "Colors"
+
+msgid "Commands"
+msgstr "Commands"
+
+msgid "Comme&nts"
+msgstr "Comme&nts"
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "Comment background"
+msgstr "Comment background"
+
+msgid "Comment starter:"
+msgstr "Comment starter:"
+
+msgid "Comment this line out. Commented lines don't show up on screen."
+msgstr "Comment this line out. Commented lines don't show up on screen."
+
+msgid "Commit"
+msgstr "Commit"
+
+msgid "Commit and move to next line"
+msgstr "Commit and move to next line"
+
+msgid "Commit and stay on current line"
+msgstr "Commit and stay on current line"
+
+msgid "Commit and use default timing for next line"
+msgstr "Commit and use default timing for next line"
+
+msgid "Commit any pending audio timing changes"
+msgstr "Commit any pending audio timing changes"
+
+msgid "Commit any pending audio timing changes and move to the next line"
+msgstr "Commit any pending audio timing changes and move to the next line"
+
+msgid ""
+"Commit any pending audio timing changes and reset the next line's times to "
+"the default"
+msgstr ""
+"Commit any pending audio timing changes and reset the next line's times to "
+"the default"
+
+msgid "Commit any pending audio timing changes and stay on the current line"
+msgstr "Commit any pending audio timing changes and stay on the current line"
+
+msgid "Commit changes and move to the next line"
+msgstr "Commit changes and move to the next line"
+
+msgid "Commit changes and stay on the current line"
+msgstr "Commit changes and stay on the current line"
+
+msgid "Commit splits"
+msgstr "Commit splits"
+
+msgid "Concatenate"
+msgstr "Concatenate"
+
+msgid "Configure Aegisub"
+msgstr "Configure Aegisub"
+
+msgid "Confirm delete"
+msgstr "Confirm delete"
+
+msgid "Confirm delete from current"
+msgstr "Confirm delete from current"
+
+msgid "Confirm delete from storage"
+msgstr "Confirm delete from storage"
+
+msgid "Contents"
+msgstr "Contents"
+
+msgid "Convert"
+msgstr "Convert"
+
+msgid "Convert Latin letters to SJIS fullwidth letters"
+msgstr "Convert Latin letters to SJIS fullwidth letters"
+
+msgid "Converts a segment between line and bicubic"
+msgstr "Converts a segment between line and bicubic"
+
+msgid "Copy Lines"
+msgstr "Copy Lines"
+
+msgid "Copy coordinates to Clipboard"
+msgstr "Copy coordinates to Clipboard"
+
+msgid "Copy fonts to folder"
+msgstr "Copy fonts to folder"
+
+msgid "Copy fonts to subtitle file's folder"
+msgstr "Copy fonts to subtitle file's folder"
+
+msgid "Copy fonts to zipped archive"
+msgstr "Copy fonts to zipped archive"
+
+msgid "Copy image to Clipboard"
+msgstr "Copy image to Clipboard"
+
+msgid "Copy image to Clipboard (no subtitles)"
+msgstr "Copy image to Clipboard (no subtitles)"
+
+msgid "Copy subtitles to the clipboard"
+msgstr "Copy subtitles to the clipboard"
+
+msgid ""
+"Copy the current coordinates of the mouse over the video to the clipboard"
+msgstr ""
+"Copy the current coordinates of the mouse over the video to the clipboard"
+
+msgid "Copy the currently displayed frame to the clipboard"
+msgstr "Copy the currently displayed frame to the clipboard"
+
+msgid ""
+"Copy the currently displayed frame to the clipboard, without the subtitles"
+msgstr ""
+"Copy the currently displayed frame to the clipboard, without the subtitles"
+
+msgid "Copy to &current script ->"
+msgstr "Copy to &current script ->"
+
+msgid "Copying fonts to archive...\n"
+msgstr "Copying fonts to archive...\n"
+
+msgid "Copying fonts to folder...\n"
+msgstr "Copying fonts to folder...\n"
+
+msgid "Correctly loaded"
+msgstr "Correctly loaded"
+
+msgid "Could not connect to updates server."
+msgstr "Could not connect to updates server."
+
+msgid "Could not create destination folder."
+msgstr "Could not create destination folder."
+
+msgid "Could not download from updates server."
+msgstr "Could not download from updates server."
+
+msgid "Could not find font '%s'\n"
+msgstr "Could not find font '%s'\n"
+
+msgid "Could not parse style"
+msgstr "Could not parse style"
+
+msgid "Create a start menu icon"
+msgstr "Create a start menu icon"
+
+msgid "Create and edit subtitles for film and videos."
+msgstr "Create and edit subtitles for film and videos."
+
+msgid "Create audio clip"
+msgstr "Create audio clip"
+
+msgid "Cu&t"
+msgstr "Cu&t"
+
+msgid "Cu&t Lines"
+msgstr "Cu&t Lines"
+
+msgid "Current frame time and number"
+msgstr "Current frame time and number"
+
+msgid "Current line"
+msgstr "Current line"
+
+msgid "Current line: %d/%d"
+msgstr "Current line: %d/%d"
+
+msgid "Current script"
+msgstr "Current script"
+
+msgid "Cursor time"
+msgstr "Cursor time"
+
+msgid "Custom"
+msgstr "Custom"
+
+msgid "Cut Lines"
+msgstr "Cut Lines"
+
+msgid "Cut subtitles"
+msgstr "Cut subtitles"
+
+msgid "Cycle Tag Hiding Mode"
+msgstr "Cycle Tag Hiding Mode"
+
+msgid "Cycle active subtitles provider"
+msgstr "Cycle active subtitles provider"
+
+msgid "Cycle through tag hiding modes"
+msgstr "Cycle through tag hiding modes"
+
+msgid "Cycle through the available subtitles providers"
+msgstr "Cycle through the available subtitles providers"
+
+msgid "D&ialogues"
+msgstr "D&ialogues"
+
+msgid "De&lete Lines"
+msgstr "De&lete Lines"
+
+msgid "Debug log verbosity"
+msgstr "Debug log verbosity"
+
+msgid "Decoder:"
+msgstr "Decoder:"
+
+msgid "Decoding threads"
+msgstr "Decoding threads"
+
+msgid "Decrease length"
+msgstr "Decrease length"
+
+msgid "Decrease length and shift"
+msgstr "Decrease length and shift"
+
+msgid "Decrease the length of the current timing unit"
+msgstr "Decrease the length of the current timing unit"
+
+msgid ""
+"Decrease the length of the current timing unit and shift the following items"
+msgstr ""
+"Decrease the length of the current timing unit and shift the following items"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Default Zoom"
+msgstr "Default Zoom"
+
+msgid "Default height"
+msgstr "Default height"
+
+msgid "Default lead-in length (ms)"
+msgstr "Default lead-in length (ms)"
+
+msgid "Default lead-out length (ms)"
+msgstr "Default lead-out length (ms)"
+
+msgid "Default mouse wheel to zoom"
+msgstr "Default mouse wheel to zoom"
+
+msgid "Default style catalogs"
+msgstr "Default style catalogs"
+
+msgid "Default styles"
+msgstr "Default styles"
+
+msgid "Default timing length (ms)"
+msgstr "Default timing length (ms)"
+
+msgid "Default width"
+msgstr "Default width"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Delete Lines"
+msgstr "Delete Lines"
+
+msgid "Delete currently selected lines"
+msgstr "Delete currently selected lines"
+
+msgid "Delete line"
+msgstr "Delete line"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Deselect all styles"
+msgstr "Deselect all styles"
+
+msgid "Dest: "
+msgstr "Dest: "
+
+msgid "Destination"
+msgstr "Destination"
+
+msgid "Detach Video"
+msgstr "Detach Video"
+
+msgid ""
+"Detach the video display from the main window, displaying it in a separate "
+"Window"
+msgstr ""
+"Detach the video display from the main window, displaying it in a separate "
+"Window"
+
+msgid "Dictionaries path"
+msgstr "Dictionaries path"
+
+msgid "Disable"
+msgstr "Disable"
+
+msgid "Discard all uncommitted splits"
+msgstr "Discard all uncommitted splits"
+
+msgid ""
+"Discard the currently loaded keyframes and use those from the video, if any"
+msgstr ""
+"Discard the currently loaded keyframes and use those from the video, if any"
+
+msgid "Display Visual Options"
+msgstr "Display Visual Options"
+
+msgid "Display audio and the subtitles grid only"
+msgstr "Display audio and the subtitles grid only"
+
+msgid "Display audio as a frequency-power spectrograph"
+msgstr "Display audio as a frequency-power spectrograph"
+
+msgid "Display audio as a linear amplitude graph"
+msgstr "Display audio as a linear amplitude graph"
+
+msgid "Display audio, video and then subtitles grid"
+msgstr "Display audio, video and then subtitles grid"
+
+msgid "Display standard"
+msgstr "Display standard"
+
+msgid "Display the subtitles grid only"
+msgstr "Display the subtitles grid only"
+
+msgid "Display video and the subtitles grid only"
+msgstr "Display video and the subtitles grid only"
+
+msgid "Distance from left edge, in pixels"
+msgstr "Distance from left edge, in pixels"
+
+msgid "Distance from right edge, in pixels"
+msgstr "Distance from right edge, in pixels"
+
+msgid "Distance from top/bottom edge, in pixels"
+msgstr "Distance from top/bottom edge, in pixels"
+
+msgid ""
+"Do you want Aegisub to check for updates whenever it starts? You can still "
+"do it manually via the Help menu."
+msgstr ""
+"Do you want Aegisub to check for updates whenever it starts? You can still "
+"do it manually via the Help menu."
+
+msgid ""
+"Do you want to change all instances of this style in the script to this new "
+"name?"
+msgstr ""
+"Do you want to change all instances of this style in the script to this new "
+"name?"
+
+msgid "Do you want to load/unload the associated files?"
+msgstr "Do you want to load/unload the associated files?"
+
+msgid "Do you want to save changes to %s?"
+msgstr "Do you want to save changes to %s?"
+
+msgid "Don't show"
+msgstr "Don't show"
+
+msgid ""
+"Done\n"
+"\n"
+msgstr ""
+"Done\n"
+"\n"
+
+msgid "Done. All fonts copied."
+msgstr "Done. All fonts copied."
+
+msgid "Done. Some fonts could not be copied."
+msgstr "Done. Some fonts could not be copied."
+
+msgid "Drag"
+msgstr "Drag"
+
+msgid "Drag control points"
+msgstr "Drag control points"
+
+msgid "Drag subtitles"
+msgstr "Drag subtitles"
+
+msgid "Draws a freehand shape"
+msgstr "Draws a freehand shape"
+
+msgid "Draws a smoothed freehand shape"
+msgstr "Draws a smoothed freehand shape"
+
+msgid "Dummy video options"
+msgstr "Dummy video options"
+
+msgid "Duplicate Lines"
+msgstr "Duplicate Lines"
+
+msgid "Duplicate the selected lines"
+msgstr "Duplicate the selected lines"
+
+msgid "Duration (frames):"
+msgstr "Duration (frames):"
+
+msgid "E&ffect"
+msgstr "E&ffect"
+
+msgid "E&nable"
+msgstr "E&nable"
+
+msgid "E&xit"
+msgstr "E&xit"
+
+msgid "E&xtract"
+msgstr "E&xtract"
+
+msgid "EBU STL export"
+msgstr "EBU STL export"
+
+msgid "East European"
+msgstr "East European"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Edit Box"
+msgstr "Edit Box"
+
+msgid "Editing:"
+msgstr "Editing:"
+
+msgid "Effect"
+msgstr "Effect"
+
+msgid ""
+"Effect for this line. This can be used to store extra information for "
+"karaoke scripts, or for the effects supported by the renderer."
+msgstr ""
+"Effect for this line. This can be used to store extra information for "
+"karaoke scripts, or for the effects supported by the renderer."
+
+msgid "Empty"
+msgstr "Empty"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Enable &preview"
+msgstr "Enable &preview"
+
+msgid "Enable adding of lead-ins to lines"
+msgstr "Enable adding of lead-ins to lines"
+
+msgid "Enable adding of lead-outs to lines"
+msgstr "Enable adding of lead-outs to lines"
+
+msgid "Enable call tips"
+msgstr "Enable call tips"
+
+msgid ""
+"Enable snapping of subtitles to nearest keyframe, if distance is within "
+"threshold"
+msgstr ""
+"Enable snapping of subtitles to nearest keyframe, if distance is within "
+"threshold"
+
+msgid ""
+"Enable snapping of subtitles together if they are within a certain distance "
+"of each other"
+msgstr ""
+"Enable snapping of subtitles together if they are within a certain distance "
+"of each other"
+
+msgid "Enable syntax highlighting"
+msgstr "Enable syntax highlighting"
+
+msgid "Enable unsafe seeking"
+msgstr "Enable unsafe seeking"
+
+msgid ""
+"Encoding, only useful in unicode if the font doesn't have the proper unicode "
+"mapping"
+msgstr ""
+"Encoding, only useful in unicode if the font doesn't have the proper unicode "
+"mapping"
+
+msgid "Encoding:"
+msgstr "Encoding:"
+
+msgid "End"
+msgstr "End"
+
+msgid "End Time"
+msgstr "End Time"
+
+msgid "End time"
+msgstr "End time"
+
+msgid "Ends after thres.:"
+msgstr "Ends after thres.:"
+
+msgid "Ends before thres.:"
+msgstr "Ends before thres.:"
+
+msgid "Enter aspect ratio"
+msgstr "Enter aspect ratio"
+
+msgid ""
+"Enter aspect ratio in either:\n"
+"  decimal (e.g. 2.35)\n"
+"  fractional (e.g. 16:9)\n"
+"  specific resolution (e.g. 853x480)"
+msgstr ""
+"Enter aspect ratio in either:\n"
+"  decimal (e.g. 2.35)\n"
+"  fractional (e.g. 16:9)\n"
+"  specific resolution (e.g. 853x480)"
+
+msgid "Enter number of frames to shift by"
+msgstr "Enter number of frames to shift by"
+
+msgid ""
+"Enter the name of the destination zip file to collect the fonts to. If a "
+"folder is entered, a default name will be used."
+msgstr ""
+"Enter the name of the destination zip file to collect the fonts to. If a "
+"folder is entered, a default name will be used."
+
+msgid "Enter time in h:mm:ss.cs notation"
+msgstr "Enter time in h:mm:ss.cs notation"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Error Background"
+msgstr "Error Background"
+
+msgid "Error Importing Styles"
+msgstr "Error Importing Styles"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Exit the application"
+msgstr "Exit the application"
+
+msgid "Expert"
+msgstr "Expert"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Export Subtitles"
+msgstr "Export Subtitles"
+
+msgid "Export subtitles file"
+msgstr "Export subtitles file"
+
+msgid "Export to EBU STL format"
+msgstr "Export to EBU STL format"
+
+msgid "Export..."
+msgstr "Export..."
+
+msgid "F&rame"
+msgstr "F&rame"
+
+msgid "FPS"
+msgstr "FPS"
+
+msgid "FPS:"
+msgstr "FPS:"
+
+msgid "Failed to load"
+msgstr "Failed to load"
+
+msgid ""
+"Failed to load Automation script '%s':\n"
+"%s"
+msgstr ""
+"Failed to load Automation script '%s':\n"
+"%s"
+
+msgid "Fast jump backwards"
+msgstr "Fast jump backwards"
+
+msgid "Fast jump forward"
+msgstr "Fast jump forward"
+
+msgid "Fast jump step in frames"
+msgstr "Fast jump step in frames"
+
+msgid "Fields"
+msgstr "Fields"
+
+msgid "File backup saved as \"%s\"."
+msgstr "File backup saved as \"%s\"."
+
+msgid "File name:"
+msgstr "File name:"
+
+msgid "File was not recognized as a script"
+msgstr "File was not recognized as a script"
+
+msgid "Filename"
+msgstr "Filename"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Filters"
+msgstr "Filters"
+
+msgid "Find"
+msgstr "Find"
+
+msgid "Find &Next"
+msgstr "Find &Next"
+
+msgid "Find Next"
+msgstr "Find Next"
+
+msgid "Find and R&eplace..."
+msgstr "Find and R&eplace..."
+
+msgid "Find and Replace"
+msgstr "Find and Replace"
+
+msgid "Find and replace words in subtitles"
+msgstr "Find and replace words in subtitles"
+
+msgid "Find next match of last search"
+msgstr "Find next match of last search"
+
+msgid "Find what:"
+msgstr "Find what:"
+
+msgid "Find/Replace"
+msgstr "Find/Replace"
+
+msgid "Fix Styles"
+msgstr "Fix Styles"
+
+msgid ""
+"Fixes styles by replacing any style that isn't available on file with "
+"Default."
+msgstr ""
+"Fixes styles by replacing any style that isn't available on file with "
+"Default."
+
+msgid "Focus grid on click"
+msgstr "Focus grid on click"
+
+msgid "Font"
+msgstr "Font"
+
+msgid "Font Face"
+msgstr "Font Face"
+
+msgid "Font Face..."
+msgstr "Font Face..."
+
+msgid "Font Size"
+msgstr "Font Size"
+
+msgid "Font face"
+msgstr "Font face"
+
+msgid "Font size"
+msgstr "Font size"
+
+msgid "Fonts Collector"
+msgstr "Fonts Collector"
+
+msgid "For&ward"
+msgstr "For&ward"
+
+msgid "Force BT.601"
+msgstr "Force BT.601"
+
+msgid "Force sample rate"
+msgstr "Force sample rate"
+
+msgid "Force video to 16:9 aspect ratio"
+msgstr "Force video to 16:9 aspect ratio"
+
+msgid "Force video to 2.35 aspect ratio"
+msgstr "Force video to 2.35 aspect ratio"
+
+msgid "Force video to 4:3 aspect ratio"
+msgstr "Force video to 4:3 aspect ratio"
+
+msgid "Force video to a custom aspect ratio"
+msgstr "Force video to a custom aspect ratio"
+
+msgid "Forums"
+msgstr "Forums"
+
+msgid "Found '%s' at '%s'\n"
+msgstr "Found '%s' at '%s'\n"
+
+msgid "Frame rate (fps):"
+msgstr "Frame rate (fps):"
+
+msgid "Frame: "
+msgstr "Frame: "
+
+msgid "Freehand"
+msgstr "Freehand"
+
+msgid "Freehand smooth"
+msgstr "Freehand smooth"
+
+msgid "From &video"
+msgstr "From &video"
+
+msgid "From video (%g)"
+msgstr "From video (%g)"
+
+msgid "From video (VFR)"
+msgstr "From video (VFR)"
+
+msgid "Full view"
+msgstr "Full view"
+
+msgid "Fullscreen (4:3)"
+msgstr "Fullscreen (4:3)"
+
+msgid "GB2312"
+msgstr "GB2312"
+
+msgid "General"
+msgstr "General"
+
+msgid "Global autoload scripts"
+msgstr "Global autoload scripts"
+
+msgid "Go to selection"
+msgstr "Go to selection"
+
+msgid "Greek"
+msgstr "Greek"
+
+msgid "Green:"
+msgstr "Green:"
+
+msgid "Grid"
+msgstr "Grid"
+
+msgid "Group"
+msgstr "Group"
+
+msgid "Group all of the source text."
+msgstr "Group all of the source text."
+
+msgid "HSL color"
+msgstr "HSL color"
+
+msgid "HSL/L"
+msgstr "HSL/L"
+
+msgid "HSV color"
+msgstr "HSV color"
+
+msgid "HSV/H"
+msgstr "HSV/H"
+
+msgid "HTTP request failed, got HTTP response %d."
+msgstr "HTTP request failed, got HTTP response %d."
+
+msgid "Hangeul"
+msgstr "Hangeul"
+
+msgid "Hard Disk"
+msgstr "Hard Disk"
+
+msgid "Header background"
+msgstr "Header background"
+
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgid "Help topics"
+msgstr "Help topics"
+
+msgid "Hide Tags"
+msgstr "Hide Tags"
+
+msgid "Hide Toolbar"
+msgstr "Hide Toolbar"
+
+msgid "Hide override tags in the subtitle grid"
+msgstr "Hide override tags in the subtitle grid"
+
+msgid "Hide overrides symbol"
+msgstr "Hide overrides symbol"
+
+msgid "High quality"
+msgstr "High quality"
+
+msgid "Highlight visible subtitles"
+msgstr "Highlight visible subtitles"
+
+msgid "Horizontal zoom"
+msgstr "Horizontal zoom"
+
+msgid "Hotkeys"
+msgstr "Hotkeys"
+
+msgid "Hue:"
+msgstr "Hue:"
+
+msgid "IRC Channel"
+msgstr "IRC Channel"
+
+msgid "ISO 6937-2 (Latin/Western Europe)"
+msgstr "ISO 6937-2 (Latin/Western Europe)"
+
+msgid "ISO 8859-5 (Cyrillic)"
+msgstr "ISO 8859-5 (Cyrillic)"
+
+msgid "ISO 8859-6 (Arabic)"
+msgstr "ISO 8859-6 (Arabic)"
+
+msgid "ISO 8859-7 (Greek)"
+msgstr "ISO 8859-7 (Greek)"
+
+msgid "ISO 8859-8 (Hebrew)"
+msgstr "ISO 8859-8 (Hebrew)"
+
+msgid "Ignore"
+msgstr "Ignore"
+
+msgid "Ignore &UPPERCASE words"
+msgstr "Ignore &UPPERCASE words"
+
+msgid "Ignore a&ll"
+msgstr "Ignore a&ll"
+
+msgid "Ignore punctuation"
+msgstr "Ignore punctuation"
+
+msgid "Ignore whitespace"
+msgstr "Ignore whitespace"
+
+msgid "Import Styles"
+msgstr "Import Styles"
+
+msgid "In Field"
+msgstr "In Field"
+
+msgid "In frame background"
+msgstr "In frame background"
+
+msgid "Include blank lines"
+msgstr "Include blank lines"
+
+msgid "Include commented inactive lines"
+msgstr "Include commented inactive lines"
+
+msgid "Include path"
+msgstr "Include path"
+
+msgid "Increase length"
+msgstr "Increase length"
+
+msgid "Increase length and shift"
+msgstr "Increase length and shift"
+
+msgid "Increase the length of the current timing unit"
+msgstr "Increase the length of the current timing unit"
+
+msgid ""
+"Increase the length of the current timing unit and shift the following items"
+msgstr ""
+"Increase the length of the current timing unit and shift the following items"
+
+msgid "Indexing"
+msgstr "Indexing"
+
+msgid "Input framerate: "
+msgstr "Input framerate: "
+
+msgid "Insane quality"
+msgstr "Insane quality"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "Insert (after)"
+msgstr "Insert (after)"
+
+msgid "Insert Original"
+msgstr "Insert Original"
+
+msgid "Insert a new line after the current one"
+msgstr "Insert a new line after the current one"
+
+msgid "Insert a new line after the current one, starting at video time"
+msgstr "Insert a new line after the current one, starting at video time"
+
+msgid "Insert a new line before the current one"
+msgstr "Insert a new line before the current one"
+
+msgid "Insert a new line before the current one, starting at video time"
+msgstr "Insert a new line before the current one, starting at video time"
+
+msgid "Insert at video time (after)"
+msgstr "Insert at video time (after)"
+
+msgid "Insert at video time (before)"
+msgstr "Insert at video time (before)"
+
+msgid "Insert original"
+msgstr "Insert original"
+
+msgid "Insert the original line text at the cursor"
+msgstr "Insert the original line text at the cursor"
+
+msgid "Insert the untranslated text"
+msgstr "Insert the untranslated text"
+
+msgid "Inserts a control point"
+msgstr "Inserts a control point"
+
+msgid "Installing runtime libraries..."
+msgstr "Installing runtime libraries..."
+
+msgid "Interface"
+msgstr "Interface"
+
+msgid "Intersect &with selection"
+msgstr "Intersect &with selection"
+
+msgid "Interval in seconds"
+msgstr "Interval in seconds"
+
+msgid "Invalid Aspect Ratio"
+msgstr "Invalid Aspect Ratio"
+
+msgid "Invalid characters"
+msgstr "Invalid characters"
+
+msgid "Invalid command name for hotkey"
+msgstr "Invalid command name for hotkey"
+
+msgid "Invalid destination."
+msgstr "Invalid destination."
+
+msgid "Invalid path for .zip file."
+msgstr "Invalid path for .zip file."
+
+msgid "Invalid script"
+msgstr "Invalid script"
+
+msgid "Invalid value! Aspect ratio must be between 0.5 and 5.0."
+msgstr "Invalid value! Aspect ratio must be between 0.5 and 5.0."
+
+msgid "Johab"
+msgstr "Johab"
+
+msgid "Join (as Karaoke)"
+msgstr "Join (as Karaoke)"
+
+msgid "Join (keep first)"
+msgstr "Join (keep first)"
+
+msgid "Join Lines"
+msgstr "Join Lines"
+
+msgid "Join selected lines in a single one, as karaoke"
+msgstr "Join selected lines in a single one, as karaoke"
+
+msgid "Join selected lines in a single one, concatenating text together"
+msgstr "Join selected lines in a single one, concatenating text together"
+
+msgid ""
+"Join selected lines in a single one, keeping text of first and discarding "
+"remaining"
+msgstr ""
+"Join selected lines in a single one, keeping text of first and discarding "
+"remaining"
+
+msgid "Join up the ends of selected lines and add \\k tags to shift karaoke"
+msgstr "Join up the ends of selected lines and add \\k tags to shift karaoke"
+
+msgid "Jump Video to &End"
+msgstr "Jump Video to &End"
+
+msgid "Jump Video to &Start"
+msgstr "Jump Video to &Start"
+
+msgid "Jump Video to End"
+msgstr "Jump Video to End"
+
+msgid "Jump Video to Start"
+msgstr "Jump Video to Start"
+
+msgid "Jump the video to the end frame of current subtitle"
+msgstr "Jump the video to the end frame of current subtitle"
+
+msgid "Jump the video to the start frame of current subtitle"
+msgstr "Jump the video to the start frame of current subtitle"
+
+msgid "Jump to"
+msgstr "Jump to"
+
+msgid "Jump to frame or time"
+msgstr "Jump to frame or time"
+
+msgid "Kanji Timer"
+msgstr "Kanji Timer"
+
+msgid "Kanji timing"
+msgstr "Kanji timing"
+
+msgid "Karaoke Templater"
+msgstr "Karaoke Templater"
+
+msgid "Karaoke tag"
+msgstr "Karaoke tag"
+
+msgid "Karaoke template"
+msgstr "Karaoke template"
+
+msgid "Karaoke templates"
+msgstr "Karaoke templates"
+
+msgid "Keep &First"
+msgstr "Keep &First"
+
+msgid "Keep First"
+msgstr "Keep First"
+
+msgid "Keyframe snapping"
+msgstr "Keyframe snapping"
+
+msgid "Keyframes in dialogue mode"
+msgstr "Keyframes in dialogue mode"
+
+msgid "Keyframes in karaoke mode"
+msgstr "Keyframes in karaoke mode"
+
+msgid "Keys"
+msgstr "Keys"
+
+msgid "L"
+msgstr "L"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Launch the ASSDraw3 tool for vector drawing"
+msgstr "Launch the ASSDraw3 tool for vector drawing"
+
+msgid "Layer"
+msgstr "Layer"
+
+msgid "Layer number"
+msgstr "Layer number"
+
+msgid "Lead in to be added, in milliseconds"
+msgstr "Lead in to be added, in milliseconds"
+
+msgid "Lead out to be added, in milliseconds"
+msgstr "Lead out to be added, in milliseconds"
+
+msgid "Lead-in/Lead-out"
+msgstr "Lead-in/Lead-out"
+
+msgid "Left"
+msgstr "Left"
+
+msgid "Left Column"
+msgstr "Left Column"
+
+msgid "Left Margin"
+msgstr "Left Margin"
+
+msgid "Left Margin (0 = default from style)"
+msgstr "Left Margin (0 = default from style)"
+
+msgid "Left-click-drag moves end marker"
+msgstr "Left-click-drag moves end marker"
+
+msgid "Length:"
+msgstr "Length:"
+
+msgid "Level-1 teletext"
+msgstr "Level-1 teletext"
+
+msgid "Level-2 teletext"
+msgstr "Level-2 teletext"
+
+msgid "Limit to"
+msgstr "Limit to"
+
+msgid "Line"
+msgstr "Line"
+
+msgid "Line Break"
+msgstr "Line Break"
+
+msgid "Line Number"
+msgstr "Line Number"
+
+msgid "Line boundary end"
+msgstr "Line boundary end"
+
+msgid "Line boundary inactive line"
+msgstr "Line boundary inactive line"
+
+msgid "Line boundary start"
+msgstr "Line boundary start"
+
+msgid "Line boundary thickness (px)"
+msgstr "Line boundary thickness (px)"
+
+msgid "Line duration"
+msgstr "Line duration"
+
+msgid "Line over maximum length: %s"
+msgstr "Line over maximum length: %s"
+
+msgid "Lines"
+msgstr "Lines"
+
+msgid "Link vertical zoom and volume sliders"
+msgstr "Link vertical zoom and volume sliders"
+
+msgid "Load from history"
+msgstr "Load from history"
+
+msgid "Lock scroll on cursor"
+msgstr "Lock scroll on cursor"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Log window"
+msgstr "Log window"
+
+msgid "Lowest"
+msgstr "Lowest"
+
+msgid "Lum.:"
+msgstr "Lum.:"
+
+msgid "Mac"
+msgstr "Mac"
+
+msgid ""
+"Macro and export filter to apply karaoke effects using the template language"
+msgstr ""
+"Macro and export filter to apply karaoke effects using the template language"
+
+msgid "Make Times Continuous"
+msgstr "Make Times Continuous"
+
+msgid "Make adjacent subtitles continuous"
+msgstr "Make adjacent subtitles continuous"
+
+msgid "Make fullwidth"
+msgstr "Make fullwidth"
+
+msgid "Margin Left"
+msgstr "Margin Left"
+
+msgid "Margin Right"
+msgstr "Margin Right"
+
+msgid "Margin Vertical"
+msgstr "Margin Vertical"
+
+msgid "Margin offset"
+msgstr "Margin offset"
+
+msgid "Margins"
+msgstr "Margins"
+
+msgid "Marker drag-start sensitivity (px)"
+msgstr "Marker drag-start sensitivity (px)"
+
+msgid "Match"
+msgstr "Match"
+
+msgid "Match c&ase"
+msgstr "Match c&ase"
+
+msgid "Match dialogues/comments"
+msgstr "Match dialogues/comments"
+
+msgid "Match video resolution on open"
+msgstr "Match video resolution on open"
+
+msgid "Max gap:"
+msgstr "Max gap:"
+
+msgid "Max overlap:"
+msgstr "Max overlap:"
+
+msgid "Max. line length:"
+msgstr "Max. line length:"
+
+msgid "Maximum"
+msgstr "Maximum"
+
+msgid "Maximum + Average"
+msgstr "Maximum + Average"
+
+msgid "Maximum characters per line"
+msgstr "Maximum characters per line"
+
+msgid ""
+"Maximum difference between start and end time for two subtitles to be made "
+"continuous, in milliseconds"
+msgstr ""
+"Maximum difference between start and end time for two subtitles to be made "
+"continuous, in milliseconds"
+
+msgid ""
+"Maximum overlap between the end and start time for two subtitles to be made "
+"continuous, in milliseconds"
+msgstr ""
+"Maximum overlap between the end and start time for two subtitles to be made "
+"continuous, in milliseconds"
+
+msgid "Maximum snap distance (px)"
+msgstr "Maximum snap distance (px)"
+
+msgid "MicroDVD import"
+msgstr "MicroDVD import"
+
+msgid "Miscellaneous"
+msgstr "Miscellaneous"
+
+msgid "Misspelled word:"
+msgstr "Misspelled word:"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Move &Down"
+msgstr "Move &Down"
+
+msgid "Move &Up"
+msgstr "Move &Up"
+
+msgid "Move line down"
+msgstr "Move line down"
+
+msgid "Move line up"
+msgstr "Move line up"
+
+msgid "Move style down"
+msgstr "Move style down"
+
+msgid "Move style to bottom"
+msgstr "Move style to bottom"
+
+msgid "Move style to top"
+msgstr "Move style to top"
+
+msgid "Move style up"
+msgstr "Move style up"
+
+msgid "Move the selected lines down one row"
+msgstr "Move the selected lines down one row"
+
+msgid "Move the selected lines up one row"
+msgstr "Move the selected lines up one row"
+
+msgid "Move to the next line without committing changes"
+msgstr "Move to the next line without committing changes"
+
+msgid "Move to the next subtitle line"
+msgstr "Move to the next subtitle line"
+
+msgid "Move to the next subtitle line, creating a new one if needed"
+msgstr "Move to the next subtitle line, creating a new one if needed"
+
+msgid "Move to the previous line"
+msgstr "Move to the previous line"
+
+msgid "Move to the previous line without committing changes"
+msgstr "Move to the previous line without committing changes"
+
+msgid "Multiple audio tracks detected, please choose the one you wish to load:"
+msgstr ""
+"Multiple audio tracks detected, please choose the one you wish to load:"
+
+msgid "Multiple subtitle tracks found"
+msgstr "Multiple subtitle tracks found"
+
+msgid "Multiple video tracks detected, please choose the one you wish to load:"
+msgstr ""
+"Multiple video tracks detected, please choose the one you wish to load:"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Never"
+msgstr "Never"
+
+msgid "New"
+msgstr "New"
+
+msgid "New &Window"
+msgstr "New &Window"
+
+msgid "New Subtitles"
+msgstr "New Subtitles"
+
+msgid "New Window"
+msgstr "New Window"
+
+msgid "New catalog entry"
+msgstr "New catalog entry"
+
+msgid "New files"
+msgstr "New files"
+
+msgid "New storage name:"
+msgstr "New storage name:"
+
+msgid "New subtitles"
+msgstr "New subtitles"
+
+msgid "Next Boundary"
+msgstr "Next Boundary"
+
+msgid "Next Frame"
+msgstr "Next Frame"
+
+msgid "Next Keyframe"
+msgstr "Next Keyframe"
+
+msgid "Next Line"
+msgstr "Next Line"
+
+msgid "Next line"
+msgstr "Next line"
+
+msgid "Next line or syllable"
+msgstr "Next line or syllable"
+
+msgid "No Automation macros loaded"
+msgstr "No Automation macros loaded"
+
+msgid "No correction suggestions"
+msgstr "No correction suggestions"
+
+msgid "No lines were added to selection"
+msgstr "No lines were added to selection"
+
+msgid "No lines were removed from selection"
+msgstr "No lines were removed from selection"
+
+msgid "No matches found."
+msgstr "No matches found."
+
+msgid "No more lines to translate."
+msgstr "No more lines to translate."
+
+msgid "No scripts"
+msgstr "No scripts"
+
+msgid "No spell checker suggestions"
+msgstr "No spell checker suggestions"
+
+msgid "No thesaurus suggestions"
+msgstr "No thesaurus suggestions"
+
+msgid "None (NOT RECOMMENDED)"
+msgstr "None (NOT RECOMMENDED)"
+
+msgid ""
+"None of the available audio providers have a codec available to handle the "
+"selected file.\n"
+"\n"
+"The following providers were tried:\n"
+msgstr ""
+"None of the available audio providers have a codec available to handle the "
+"selected file.\n"
+"\n"
+"The following providers were tried:\n"
+
+msgid ""
+"None of the available audio providers recognised the selected file as "
+"containing audio data.\n"
+"\n"
+"The following providers were tried:\n"
+msgstr ""
+"None of the available audio providers recognised the selected file as "
+"containing audio data.\n"
+"\n"
+"The following providers were tried:\n"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Nothing to &redo"
+msgstr "Nothing to &redo"
+
+msgid "Nothing to &undo"
+msgstr "Nothing to &undo"
+
+msgid "Nothing to redo"
+msgstr "Nothing to redo"
+
+msgid "Nothing to undo"
+msgstr "Nothing to undo"
+
+msgid "Number of characters in the longest line of this subtitle."
+msgstr "Number of characters in the longest line of this subtitle."
+
+msgid "OEM"
+msgstr "OEM"
+
+msgid "OSS Device"
+msgstr "OSS Device"
+
+msgid "One font could not be found\n"
+msgid_plural "%d fonts could not be found.\n"
+msgstr[0] "One font could not be found\n"
+msgstr[1] "%d fonts could not be found.\n"
+
+msgid "One font was found, but was missing glyphs used in the script.\n"
+msgid_plural ""
+"%d fonts were found, but were missing glyphs used in the script.\n"
+msgstr[0] "One font was found, but was missing glyphs used in the script.\n"
+msgstr[1] "%d fonts were found, but were missing glyphs used in the script.\n"
+
+msgid "One line was added to selection"
+msgid_plural "%u lines were added to selection"
+msgstr[0] "One line was added to selection"
+msgstr[1] "%u lines were added to selection"
+
+msgid "One line was removed from selection"
+msgid_plural "%u lines were removed from selection"
+msgstr[0] "One line was removed from selection"
+msgstr[1] "%u lines were removed from selection"
+
+msgid "One of the lines in the file (%i) has negative duration. Aborting."
+msgstr "One of the lines in the file (%i) has negative duration. Aborting."
+
+msgid "Only show visual tools when mouse is over video"
+msgstr "Only show visual tools when mouse is over video"
+
+msgid ""
+"Oops, Aegisub has crashed!\n"
+"\n"
+"An attempt has been made to save a copy of your file to:\n"
+"\n"
+"%s\n"
+"\n"
+"Aegisub will now close."
+msgstr ""
+"Oops, Aegisub has crashed!\n"
+"\n"
+"An attempt has been made to save a copy of your file to:\n"
+"\n"
+"%s\n"
+"\n"
+"Aegisub will now close."
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Open 2h30 Blank Audio"
+msgstr "Open 2h30 Blank Audio"
+
+msgid "Open 2h30 Noise Audio"
+msgstr "Open 2h30 Noise Audio"
+
+msgid "Open A&utosaved Subtitles..."
+msgstr "Open A&utosaved Subtitles..."
+
+msgid "Open Audio File"
+msgstr "Open Audio File"
+
+msgid "Open Audio from &Video"
+msgstr "Open Audio from &Video"
+
+msgid "Open Audio from Video"
+msgstr "Open Audio from Video"
+
+msgid "Open Autosaved Subtitles"
+msgstr "Open Autosaved Subtitles"
+
+msgid "Open Keyframes"
+msgstr "Open Keyframes"
+
+msgid "Open Keyframes..."
+msgstr "Open Keyframes..."
+
+msgid "Open Subtitles"
+msgstr "Open Subtitles"
+
+msgid "Open Subtitles from &Video"
+msgstr "Open Subtitles from &Video"
+
+msgid "Open Subtitles from Video"
+msgstr "Open Subtitles from Video"
+
+msgid "Open Subtitles with &Charset..."
+msgstr "Open Subtitles with &Charset..."
+
+msgid "Open Subtitles with Charset"
+msgstr "Open Subtitles with Charset"
+
+msgid "Open Timecodes File"
+msgstr "Open Timecodes File"
+
+msgid "Open Timecodes File..."
+msgstr "Open Timecodes File..."
+
+msgid "Open Video"
+msgstr "Open Video"
+
+msgid "Open a 150 minutes blank audio clip, for debugging"
+msgstr "Open a 150 minutes blank audio clip, for debugging"
+
+msgid "Open a 150 minutes noise-filled audio clip, for debugging"
+msgstr "Open a 150 minutes noise-filled audio clip, for debugging"
+
+msgid "Open a VFR timecodes v1 or v2 file"
+msgstr "Open a VFR timecodes v1 or v2 file"
+
+msgid "Open a keyframe list file"
+msgstr "Open a keyframe list file"
+
+msgid "Open a new application window"
+msgstr "Open a new application window"
+
+msgid "Open a placeholder video clip with solid color"
+msgstr "Open a placeholder video clip with solid color"
+
+msgid "Open a previous version of a file which was autosaved by Aegisub"
+msgstr "Open a previous version of a file which was autosaved by Aegisub"
+
+msgid "Open a subtitles file"
+msgstr "Open a subtitles file"
+
+msgid "Open a subtitles file with a specific file encoding"
+msgstr "Open a subtitles file with a specific file encoding"
+
+msgid "Open a video file"
+msgstr "Open a video file"
+
+msgid "Open an audio file"
+msgstr "Open an audio file"
+
+msgid "Open automation manager"
+msgstr "Open automation manager"
+
+msgid ""
+"Open automation manager. Ctrl: Rescan autoload folder. Ctrl+Shift: Rescan "
+"autoload folder and reload all automation scripts"
+msgstr ""
+"Open automation manager. Ctrl: Rescan autoload folder. Ctrl+Shift: Rescan "
+"autoload folder and reload all automation scripts"
+
+msgid "Open autosave file"
+msgstr "Open autosave file"
+
+msgid "Open fonts collector"
+msgstr "Open fonts collector"
+
+msgid "Open keyframes file"
+msgstr "Open keyframes file"
+
+msgid "Open recent audio"
+msgstr "Open recent audio"
+
+msgid "Open recent keyframes"
+msgstr "Open recent keyframes"
+
+msgid "Open recent subtitles"
+msgstr "Open recent subtitles"
+
+msgid "Open recent timecodes"
+msgstr "Open recent timecodes"
+
+msgid "Open recent video"
+msgstr "Open recent video"
+
+msgid "Open recent videos"
+msgstr "Open recent videos"
+
+msgid "Open script properties window"
+msgstr "Open script properties window"
+
+msgid "Open spell checker"
+msgstr "Open spell checker"
+
+msgid "Open styling assistant"
+msgstr "Open styling assistant"
+
+msgid "Open subtitles"
+msgstr "Open subtitles"
+
+msgid "Open subtitles file"
+msgstr "Open subtitles file"
+
+msgid "Open the Kanji timer copier"
+msgstr "Open the Kanji timer copier"
+
+msgid "Open the attachment manager dialog"
+msgstr "Open the attachment manager dialog"
+
+msgid "Open the audio from the current video file"
+msgstr "Open the audio from the current video file"
+
+msgid "Open the manual page for Visual Typesetting"
+msgstr "Open the manual page for Visual Typesetting"
+
+msgid "Open the styles manager"
+msgstr "Open the styles manager"
+
+msgid "Open the subtitles from the current video file"
+msgstr "Open the subtitles from the current video file"
+
+msgid "Open translation assistant"
+msgstr "Open translation assistant"
+
+msgid "Open video file"
+msgstr "Open video file"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "Original script:"
+msgstr "Original script:"
+
+msgid "Out-times are inclusive"
+msgstr "Out-times are inclusive"
+
+msgid "Outline"
+msgstr "Outline"
+
+msgid "Outline Color"
+msgstr "Outline Color"
+
+msgid "Outline Color..."
+msgstr "Outline Color..."
+
+msgid "Outline width, in pixels"
+msgstr "Outline width, in pixels"
+
+msgid "Outline:"
+msgstr "Outline:"
+
+msgid "Output: "
+msgstr "Output: "
+
+msgid "Override &AR"
+msgstr "Override &AR"
+
+msgid "Overwrite in time boxes"
+msgstr "Overwrite in time boxes"
+
+msgid "Parameters"
+msgstr "Parameters"
+
+msgid "Parsing Matroska"
+msgstr "Parsing Matroska"
+
+msgid "Parsing file\n"
+msgstr "Parsing file\n"
+
+msgid "Paste Lines"
+msgstr "Paste Lines"
+
+msgid "Paste Lines &Over..."
+msgstr "Paste Lines &Over..."
+
+msgid "Paste Lines Over"
+msgstr "Paste Lines Over"
+
+msgid "Paste subtitles"
+msgstr "Paste subtitles"
+
+msgid "Paste subtitles over others"
+msgstr "Paste subtitles over others"
+
+msgid "Path"
+msgstr "Path"
+
+msgid "Plain text import"
+msgstr "Plain text import"
+
+msgid "Play"
+msgstr "Play"
+
+msgid "Play &Audio"
+msgstr "Play &Audio"
+
+msgid "Play &Video"
+msgstr "Play &Video"
+
+msgid "Play 500 ms after selection"
+msgstr "Play 500 ms after selection"
+
+msgid "Play 500 ms before selection"
+msgstr "Play 500 ms before selection"
+
+msgid "Play audio"
+msgstr "Play audio"
+
+msgid "Play audio selection"
+msgstr "Play audio selection"
+
+msgid "Play audio selection or stop"
+msgstr "Play audio selection or stop"
+
+msgid "Play audio until the end of the selection is reached"
+msgstr "Play audio until the end of the selection is reached"
+
+msgid "Play audio when stepping in video"
+msgstr "Play audio when stepping in video"
+
+msgid "Play current audio selection"
+msgstr "Play current audio selection"
+
+msgid "Play current line"
+msgstr "Play current line"
+
+msgid "Play cursor"
+msgstr "Play cursor"
+
+msgid "Play first 500 ms of selection"
+msgstr "Play first 500 ms of selection"
+
+msgid "Play from selection start to end of file"
+msgstr "Play from selection start to end of file"
+
+msgid "Play last 500 ms of selection"
+msgstr "Play last 500 ms of selection"
+
+msgid "Play line"
+msgstr "Play line"
+
+msgid "Play selection, or stop playback if it's already playing"
+msgstr "Play selection, or stop playback if it's already playing"
+
+msgid "Play the audio for the current line"
+msgstr "Play the audio for the current line"
+
+msgid "Play the current audio selection, ignoring changes made while playing"
+msgstr "Play the current audio selection, ignoring changes made while playing"
+
+msgid "Play video"
+msgstr "Play video"
+
+msgid "Play video starting on this position"
+msgstr "Play video starting on this position"
+
+msgid "Please choose the appropriate FPS for the subtitles:"
+msgstr "Please choose the appropriate FPS for the subtitles:"
+
+msgid "Please choose the folder:"
+msgstr "Please choose the folder:"
+
+msgid "Please select the fields that you want to paste over:"
+msgstr "Please select the fields that you want to paste over:"
+
+msgid "Portaudio device"
+msgstr "Portaudio device"
+
+msgid ""
+"Post-process the subtitle timing to add lead-ins and lead-outs, snap timing "
+"to scene changes, etc."
+msgstr ""
+"Post-process the subtitle timing to add lead-ins and lead-outs, snap timing "
+"to scene changes, etc."
+
+msgid "Preferences"
+msgstr "Preferences"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Preview changes"
+msgstr "Preview changes"
+
+msgid "Preview of current style"
+msgstr "Preview of current style"
+
+msgid "Previous Boundary"
+msgstr "Previous Boundary"
+
+msgid "Previous Frame"
+msgstr "Previous Frame"
+
+msgid "Previous Keyframe"
+msgstr "Previous Keyframe"
+
+msgid "Previous Line"
+msgstr "Previous Line"
+
+msgid "Previous line"
+msgstr "Previous line"
+
+msgid "Previous line or syllable"
+msgstr "Previous line or syllable"
+
+msgid "Primary"
+msgstr "Primary"
+
+msgid "Primary Color"
+msgstr "Primary Color"
+
+msgid "Primary Color..."
+msgstr "Primary Color..."
+
+msgid "Program error"
+msgstr "Program error"
+
+msgid "Properties"
+msgstr "Properties"
+
+msgid "Quality"
+msgstr "Quality"
+
+msgid "R&eload autoload Automation scripts"
+msgstr "R&eload autoload Automation scripts"
+
+msgid "RAM"
+msgstr "RAM"
+
+msgid "RGB color"
+msgstr "RGB color"
+
+msgid "RGB/B"
+msgstr "RGB/B"
+
+msgid "RGB/G"
+msgstr "RGB/G"
+
+msgid "RGB/R"
+msgstr "RGB/R"
+
+msgid "Re&load"
+msgstr "Re&load"
+
+msgid "Re&scan Autoload Dir"
+msgstr "Re&scan Autoload Dir"
+
+msgid "Reading subtitles from Matroska file."
+msgstr "Reading subtitles from Matroska file."
+
+msgid "Reading timecodes and frame/sample data"
+msgstr "Reading timecodes and frame/sample data"
+
+msgid "Recent"
+msgstr "Recent"
+
+msgid "Recently Used Lists"
+msgstr "Recently Used Lists"
+
+msgid "Recom&bine Lines"
+msgstr "Recom&bine Lines"
+
+msgid "Recombine Lines"
+msgstr "Recombine Lines"
+
+msgid "Recombine subtitles which have been split and merged"
+msgstr "Recombine subtitles which have been split and merged"
+
+msgid "Red:"
+msgstr "Red:"
+
+msgid "Redo %s"
+msgstr "Redo %s"
+
+msgid "Redo last undone action"
+msgstr "Redo last undone action"
+
+msgid "Regular quality"
+msgstr "Regular quality"
+
+msgid "Reload Automation scripts"
+msgstr "Reload Automation scripts"
+
+msgid "Reload all Automation scripts and rescan the autoload folder"
+msgstr "Reload all Automation scripts and rescan the autoload folder"
+
+msgid "Reload autoload Automation scripts"
+msgstr "Reload autoload Automation scripts"
+
+msgid "Reloaded all Automation scripts"
+msgstr "Reloaded all Automation scripts"
+
+msgid "Reloaded autoload Automation scripts"
+msgstr "Reloaded autoload Automation scripts"
+
+msgid "Remind me again in a &week"
+msgstr "Remind me again in a &week"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Remove \"%s\" from dictionary"
+msgstr "Remove \"%s\" from dictionary"
+
+msgid "Remove all override tags from selected lines"
+msgstr "Remove all override tags from selected lines"
+
+msgid "Remove fro&m dictionary"
+msgstr "Remove fro&m dictionary"
+
+msgid "Removes a control point"
+msgstr "Removes a control point"
+
+msgid ""
+"Removes all but the absolutely required fields from the Script Info section. "
+"You might want to run this on files that you plan to distribute in original "
+"form."
+msgstr ""
+"Removes all but the absolutely required fields from the Script Info section. "
+"You might want to run this on files that you plan to distribute in original "
+"form."
+
+msgid "Replace"
+msgstr "Replace"
+
+msgid "Replace &all"
+msgstr "Replace &all"
+
+msgid "Replace &next"
+msgstr "Replace &next"
+
+msgid ""
+"Replace override tags in the subtitle grid with a simplified placeholder"
+msgstr ""
+"Replace override tags in the subtitle grid with a simplified placeholder"
+
+msgid "Replace timecodes?"
+msgstr "Replace timecodes?"
+
+msgid "Replace with:"
+msgstr "Replace with:"
+
+msgid "Resample Resolution"
+msgstr "Resample Resolution"
+
+msgid ""
+"Resample subtitles to maintain their current appearance at a different "
+"script resolution"
+msgstr ""
+"Resample subtitles to maintain their current appearance at a different "
+"script resolution"
+
+msgid "Rescan the Automation autoload folder"
+msgstr "Rescan the Automation autoload folder"
+
+msgid "Resolution"
+msgstr "Resolution"
+
+msgid "Resolution mismatch"
+msgstr "Resolution mismatch"
+
+msgid "Resolution:"
+msgstr "Resolution:"
+
+msgid "Restore defaults?"
+msgstr "Restore defaults?"
+
+msgid "Resulting duration: %s"
+msgstr "Resulting duration: %s"
+
+msgid "Revert"
+msgstr "Revert"
+
+msgid "Revert the active line to its initial state (shown in the upper editor)"
+msgstr ""
+"Revert the active line to its initial state (shown in the upper editor)"
+
+msgid "Right"
+msgstr "Right"
+
+msgid "Right Margin"
+msgstr "Right Margin"
+
+msgid "Right Margin (0 = default from style)"
+msgstr "Right Margin (0 = default from style)"
+
+msgid "Rotate XY"
+msgstr "Rotate XY"
+
+msgid "Rotate Z"
+msgstr "Rotate Z"
+
+msgid "Rotate subtitles on their X and Y axes"
+msgstr "Rotate subtitles on their X and Y axes"
+
+msgid "Rotate subtitles on their Z axis"
+msgstr "Rotate subtitles on their Z axis"
+
+msgid "Rotation:"
+msgstr "Rotation:"
+
+msgid "Russian"
+msgstr "Russian"
+
+msgid "S&elect Lines..."
+msgstr "S&elect Lines..."
+
+msgid "S&hift Times..."
+msgstr "S&hift Times..."
+
+msgid "S&implify Tags"
+msgstr "S&implify Tags"
+
+msgid "S&kip Override Tags"
+msgstr "S&kip Override Tags"
+
+msgid "S&tart!"
+msgstr "S&tart!"
+
+msgid "S&ubs Only View"
+msgstr "S&ubs Only View"
+
+msgid "S&ubtract from selection"
+msgstr "S&ubtract from selection"
+
+msgid "SRT import"
+msgstr "SRT import"
+
+msgid "Sat.:"
+msgstr "Sat.:"
+
+msgid "Save Keyframes"
+msgstr "Save Keyframes"
+
+msgid "Save Keyframes..."
+msgstr "Save Keyframes..."
+
+msgid "Save PNG snapshot"
+msgstr "Save PNG snapshot"
+
+msgid "Save PNG snapshot (no subtitles)"
+msgstr "Save PNG snapshot (no subtitles)"
+
+msgid "Save Subtitles"
+msgstr "Save Subtitles"
+
+msgid "Save Subtitles &as..."
+msgstr "Save Subtitles &as..."
+
+msgid "Save Subtitles as"
+msgstr "Save Subtitles as"
+
+msgid "Save Timecodes File"
+msgstr "Save Timecodes File"
+
+msgid "Save Timecodes File..."
+msgstr "Save Timecodes File..."
+
+msgid "Save UI state in subtitles files"
+msgstr "Save UI state in subtitles files"
+
+msgid "Save a VFR timecodes v2 file"
+msgstr "Save a VFR timecodes v2 file"
+
+msgid ""
+"Save a copy of subtitles in a different format or with processing applied to "
+"it"
+msgstr ""
+"Save a copy of subtitles in a different format or with processing applied to "
+"it"
+
+msgid "Save an audio clip of the selected line"
+msgstr "Save an audio clip of the selected line"
+
+msgid "Save audio clip"
+msgstr "Save audio clip"
+
+msgid "Save keyframes file"
+msgstr "Save keyframes file"
+
+msgid "Save subtitles file"
+msgstr "Save subtitles file"
+
+msgid "Save subtitles with another name"
+msgstr "Save subtitles with another name"
+
+msgid "Save the current list of keyframes to a file"
+msgstr "Save the current list of keyframes to a file"
+
+msgid "Save the current subtitles"
+msgstr "Save the current subtitles"
+
+msgid ""
+"Save the currently displayed frame to a PNG file in the video's directory"
+msgstr ""
+"Save the currently displayed frame to a PNG file in the video's directory"
+
+msgid ""
+"Save the currently displayed frame without the subtitles to a PNG file in "
+"the video's directory"
+msgstr ""
+"Save the currently displayed frame without the subtitles to a PNG file in "
+"the video's directory"
+
+msgid "Scale"
+msgstr "Scale"
+
+msgid "Scale Border and Shadow"
+msgstr "Scale Border and Shadow"
+
+msgid "Scale X%:"
+msgstr "Scale X%:"
+
+msgid "Scale X, in percentage"
+msgstr "Scale X, in percentage"
+
+msgid "Scale Y%:"
+msgstr "Scale Y%:"
+
+msgid "Scale Y, in percentage"
+msgstr "Scale Y, in percentage"
+
+msgid ""
+"Scale border and shadow together with script/render resolution. If this is "
+"unchecked, relative border and shadow size will depend on renderer."
+msgstr ""
+"Scale border and shadow together with script/render resolution. If this is "
+"unchecked, relative border and shadow size will depend on renderer."
+
+msgid "Scale subtitles on X and Y axes"
+msgstr "Scale subtitles on X and Y axes"
+
+msgid "Screenshot save path"
+msgstr "Screenshot save path"
+
+msgid "Script"
+msgstr "Script"
+
+msgid "Script Properties"
+msgstr "Script Properties"
+
+msgid "Script Resolution"
+msgstr "Script Resolution"
+
+msgid "Scripting engines installed:"
+msgstr "Scripting engines installed:"
+
+msgid "Scroll left"
+msgstr "Scroll left"
+
+msgid "Scroll right"
+msgstr "Scroll right"
+
+msgid "Scroll the audio display left"
+msgstr "Scroll the audio display left"
+
+msgid "Scroll the audio display right"
+msgstr "Scroll the audio display right"
+
+msgid "Scroll the audio display to center on the current audio selection"
+msgstr "Scroll the audio display to center on the current audio selection"
+
+msgid "Search for text in the subtitles"
+msgstr "Search for text in the subtitles"
+
+msgid "Searching for font files\n"
+msgstr "Searching for font files\n"
+
+msgid "Secondary"
+msgstr "Secondary"
+
+msgid "Secondary Color"
+msgstr "Secondary Color"
+
+msgid "Secondary Color..."
+msgstr "Secondary Color..."
+
+msgid "Seconds boundaries"
+msgstr "Seconds boundaries"
+
+msgid "Seek to the next beginning or end of a subtitle"
+msgstr "Seek to the next beginning or end of a subtitle"
+
+msgid "Seek to the next frame"
+msgstr "Seek to the next frame"
+
+msgid "Seek to the next keyframe"
+msgstr "Seek to the next keyframe"
+
+msgid "Seek to the previous beginning or end of a subtitle"
+msgstr "Seek to the previous beginning or end of a subtitle"
+
+msgid "Seek to the previous frame"
+msgstr "Seek to the previous frame"
+
+msgid "Seek to the previous keyframe"
+msgstr "Seek to the previous keyframe"
+
+msgid "Seek video"
+msgstr "Seek video"
+
+msgid "Seek video to line start on selection change"
+msgstr "Seek video to line start on selection change"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Select &All"
+msgstr "Select &All"
+
+msgid "Select &None"
+msgstr "Select &None"
+
+msgid "Select Aegisub interface language"
+msgstr "Select Aegisub interface language"
+
+msgid "Select All"
+msgstr "Select All"
+
+msgid "Select Color"
+msgstr "Select Color"
+
+msgid "Select Fields to Paste Over"
+msgstr "Select Fields to Paste Over"
+
+msgid "Select Lines"
+msgstr "Select Lines"
+
+msgid "Select Visible"
+msgstr "Select Visible"
+
+msgid "Select a font face and size"
+msgstr "Select a font face and size"
+
+msgid "Select all dialogue lines"
+msgstr "Select all dialogue lines"
+
+msgid "Select all dialogue lines that are visible on the current video frame"
+msgstr "Select all dialogue lines that are visible on the current video frame"
+
+msgid "Select all styles"
+msgstr "Select all styles"
+
+msgid "Select archive file name"
+msgstr "Select archive file name"
+
+msgid "Select folder to save fonts on"
+msgstr "Select folder to save fonts on"
+
+msgid "Select lines based on defined criteria"
+msgstr "Select lines based on defined criteria"
+
+msgid "Select source and destination styles first."
+msgstr "Select source and destination styles first."
+
+msgid "Select style"
+msgstr "Select style"
+
+msgid "Select styles to process. Unchecked ones will be ignored."
+msgstr "Select styles to process. Unchecked ones will be ignored."
+
+msgid "Select the path to save the file to:"
+msgstr "Select the path to save the file to:"
+
+msgid "Select the path to save the files to:"
+msgstr "Select the path to save the files to:"
+
+msgid "Selected &rows"
+msgstr "Selected &rows"
+
+msgid "Selected comment background"
+msgstr "Selected comment background"
+
+msgid "Selection"
+msgstr "Selection"
+
+msgid "Selection &onward"
+msgstr "Selection &onward"
+
+msgid "Selection background"
+msgstr "Selection background"
+
+msgid "Selection foreground"
+msgstr "Selection foreground"
+
+msgid "Selection was set to no lines"
+msgstr "Selection was set to no lines"
+
+msgid "Selection was set to one line"
+msgid_plural "Selection was set to %u lines"
+msgstr[0] "Selection was set to one line"
+msgstr[1] "Selection was set to %u lines"
+
+msgid "Set &Zoom"
+msgstr "Set &Zoom"
+
+msgid "Set end of selected subtitles to current video frame"
+msgstr "Set end of selected subtitles to current video frame"
+
+msgid "Set se&lection"
+msgstr "Set se&lection"
+
+msgid ""
+"Set start and end of subtitles to the keyframes around current video frame"
+msgstr ""
+"Set start and end of subtitles to the keyframes around current video frame"
+
+msgid "Set start of selected subtitles to current video frame"
+msgstr "Set start of selected subtitles to current video frame"
+
+msgid "Set style"
+msgstr "Set style"
+
+msgid "Set the outline color (\\3c) at the cursor position"
+msgstr "Set the outline color (\\3c) at the cursor position"
+
+msgid "Set the primary fill color (\\c) at the cursor position"
+msgstr "Set the primary fill color (\\c) at the cursor position"
+
+msgid "Set the secondary (karaoke) fill color (\\2c) at the cursor position"
+msgstr "Set the secondary (karaoke) fill color (\\2c) at the cursor position"
+
+msgid "Set the shadow color (\\4c) at the cursor position"
+msgstr "Set the shadow color (\\4c) at the cursor position"
+
+msgid "Set zoom to 100%"
+msgstr "Set zoom to 100%"
+
+msgid "Set zoom to 200%"
+msgstr "Set zoom to 200%"
+
+msgid "Set zoom to 50%"
+msgstr "Set zoom to 50%"
+
+msgid ""
+"Sets how to set the adjoining of lines. If set totally to left, it will "
+"extend or shrink start time of the second line; if totally to right, it will "
+"extend or shrink the end time of the first line."
+msgstr ""
+"Sets how to set the adjoining of lines. If set totally to left, it will "
+"extend or shrink start time of the second line; if totally to right, it will "
+"extend or shrink the end time of the first line."
+
+msgid "Several possible updates to Aegisub were found."
+msgstr "Several possible updates to Aegisub were found."
+
+msgid "Sh&ow Tags"
+msgstr "Sh&ow Tags"
+
+msgid "Shadow"
+msgstr "Shadow"
+
+msgid "Shadow Color"
+msgstr "Shadow Color"
+
+msgid "Shadow Color..."
+msgstr "Shadow Color..."
+
+msgid "Shadow distance, in pixels"
+msgstr "Shadow distance, in pixels"
+
+msgid "Shadow:"
+msgstr "Shadow:"
+
+msgid "Shift Times"
+msgstr "Shift Times"
+
+msgid "Shift by"
+msgstr "Shift by"
+
+msgid "Shift by frames"
+msgstr "Shift by frames"
+
+msgid "Shift by time"
+msgstr "Shift by time"
+
+msgid "Shift selection so that the active line starts at current frame"
+msgstr "Shift selection so that the active line starts at current frame"
+
+msgid "Shift start time backward"
+msgstr "Shift start time backward"
+
+msgid "Shift start time forward"
+msgstr "Shift start time forward"
+
+msgid "Shift subtitles by time or frames"
+msgstr "Shift subtitles by time or frames"
+
+msgid "Shift the start time of the current timing unit backward"
+msgstr "Shift the start time of the current timing unit backward"
+
+msgid "Shift the start time of the current timing unit forward"
+msgstr "Shift the start time of the current timing unit forward"
+
+msgid "Shift to &Current Frame"
+msgstr "Shift to &Current Frame"
+
+msgid "Shift to Current Frame"
+msgstr "Shift to Current Frame"
+
+msgid "Shift_JIS"
+msgstr "Shift_JIS"
+
+msgid ""
+"Shifts subs backward, making them appear earlier. Use if they are appearing "
+"too late."
+msgstr ""
+"Shifts subs backward, making them appear earlier. Use if they are appearing "
+"too late."
+
+msgid ""
+"Shifts subs forward, making them appear later. Use if they are appearing too "
+"soon."
+msgstr ""
+"Shifts subs forward, making them appear later. Use if they are appearing too "
+"soon."
+
+msgid "Shortcut Keys"
+msgstr "Shortcut Keys"
+
+msgid "Show &Info"
+msgstr "Show &Info"
+
+msgid "Show &Overscan Mask"
+msgstr "Show &Overscan Mask"
+
+msgid "Show &Video Details"
+msgstr "Show &Video Details"
+
+msgid "Show Original"
+msgstr "Show Original"
+
+msgid "Show Overscan Mask"
+msgstr "Show Overscan Mask"
+
+msgid "Show Tags"
+msgstr "Show Tags"
+
+msgid "Show Toolbar"
+msgstr "Show Toolbar"
+
+msgid "Show Video Details"
+msgstr "Show Video Details"
+
+msgid ""
+"Show a mask over the video, indicating areas that might get cropped off by "
+"overscan on televisions"
+msgstr ""
+"Show a mask over the video, indicating areas that might get cropped off by "
+"overscan on televisions"
+
+msgid "Show all"
+msgstr "Show all"
+
+msgid "Show full override tags in the subtitle grid"
+msgstr "Show full override tags in the subtitle grid"
+
+msgid "Show inactive lines"
+msgstr "Show inactive lines"
+
+msgid "Show keyframes in slider"
+msgstr "Show keyframes in slider"
+
+msgid "Show main toolbar"
+msgstr "Show main toolbar"
+
+msgid "Show previous"
+msgstr "Show previous"
+
+msgid "Show previous and next"
+msgstr "Show previous and next"
+
+msgid ""
+"Show the contents of the subtitle line when it was first selected above the "
+"edit box. This is sometimes useful when editing subtitles or translating "
+"subtitles into another language."
+msgstr ""
+"Show the contents of the subtitle line when it was first selected above the "
+"edit box. This is sometimes useful when editing subtitles or translating "
+"subtitles into another language."
+
+msgid "Show video details"
+msgstr "Show video details"
+
+msgid "Simplify Tags"
+msgstr "Simplify Tags"
+
+msgid "Size"
+msgstr "Size"
+
+msgid "Skip &Dest Line"
+msgstr "Skip &Dest Line"
+
+msgid "Skip &Source Line"
+msgstr "Skip &Source Line"
+
+msgid "Skip lines that are too long"
+msgstr "Skip lines that are too long"
+
+msgid "Slashes and Parentheses"
+msgstr "Slashes and Parentheses"
+
+msgid "Snap &End to Video"
+msgstr "Snap &End to Video"
+
+msgid "Snap &Start to Video"
+msgstr "Snap &Start to Video"
+
+msgid "Snap End to Video"
+msgstr "Snap End to Video"
+
+msgid "Snap Start to Video"
+msgstr "Snap Start to Video"
+
+msgid "Snap markers by default"
+msgstr "Snap markers by default"
+
+msgid "Snap to S&cene"
+msgstr "Snap to S&cene"
+
+msgid "Snap to Scene"
+msgstr "Snap to Scene"
+
+msgid "Sort All Lines"
+msgstr "Sort All Lines"
+
+msgid "Sort Selected Lines"
+msgstr "Sort Selected Lines"
+
+msgid "Sort all subtitles by their actor names"
+msgstr "Sort all subtitles by their actor names"
+
+msgid "Sort all subtitles by their effects"
+msgstr "Sort all subtitles by their effects"
+
+msgid "Sort all subtitles by their end times"
+msgstr "Sort all subtitles by their end times"
+
+msgid "Sort all subtitles by their layer number"
+msgstr "Sort all subtitles by their layer number"
+
+msgid "Sort all subtitles by their start times"
+msgstr "Sort all subtitles by their start times"
+
+msgid "Sort all subtitles by their style names"
+msgstr "Sort all subtitles by their style names"
+
+msgid "Sort selected subtitles by their actor names"
+msgstr "Sort selected subtitles by their actor names"
+
+msgid "Sort selected subtitles by their effects"
+msgstr "Sort selected subtitles by their effects"
+
+msgid "Sort selected subtitles by their end times"
+msgstr "Sort selected subtitles by their end times"
+
+msgid "Sort selected subtitles by their layer number"
+msgstr "Sort selected subtitles by their layer number"
+
+msgid "Sort selected subtitles by their start times"
+msgstr "Sort selected subtitles by their start times"
+
+msgid "Sort selected subtitles by their style names"
+msgstr "Sort selected subtitles by their style names"
+
+msgid "Sort styles"
+msgstr "Sort styles"
+
+msgid "Sort styles alphabetically"
+msgstr "Sort styles alphabetically"
+
+msgid "Source: "
+msgstr "Source: "
+
+msgid "Spacing:"
+msgstr "Spacing:"
+
+msgid "Spectrum"
+msgstr "Spectrum"
+
+msgid "Spectrum Display"
+msgstr "Spectrum Display"
+
+msgid "Spectrum analyzer mode"
+msgstr "Spectrum analyzer mode"
+
+msgid "Spectrum mode:"
+msgstr "Spectrum mode:"
+
+msgid "Spell &Checker..."
+msgstr "Spell &Checker..."
+
+msgid "Spell Checker"
+msgstr "Spell Checker"
+
+msgid "Spell checker language"
+msgstr "Spell checker language"
+
+msgid "Spell checker suggestions for \"%s\""
+msgstr "Spell checker suggestions for \"%s\""
+
+msgid "Spell checking complete."
+msgstr "Spell checking complete."
+
+msgid "Split Lines (by karaoke)"
+msgstr "Split Lines (by karaoke)"
+
+msgid "Split at cursor (at video frame)"
+msgstr "Split at cursor (at video frame)"
+
+msgid "Split at cursor (estimate times)"
+msgstr "Split at cursor (estimate times)"
+
+msgid "Split at cursor (preserve times)"
+msgstr "Split at cursor (preserve times)"
+
+msgid "Split lines after current frame"
+msgstr "Split lines after current frame"
+
+msgid "Split lines before current frame"
+msgstr "Split lines before current frame"
+
+msgid ""
+"Split the current line at the cursor, dividing the line's duration at the "
+"current video frame"
+msgstr ""
+"Split the current line at the cursor, dividing the line's duration at the "
+"current video frame"
+
+msgid ""
+"Split the current line at the cursor, dividing the original line's duration "
+"between the new ones"
+msgstr ""
+"Split the current line at the cursor, dividing the original line's duration "
+"between the new ones"
+
+msgid ""
+"Split the current line at the cursor, setting both lines to the original "
+"line's times"
+msgstr ""
+"Split the current line at the cursor, setting both lines to the original "
+"line's times"
+
+msgid ""
+"Split the current line into a line which ends on the current frame and a "
+"line which starts on the next frame"
+msgstr ""
+"Split the current line into a line which ends on the current frame and a "
+"line which starts on the next frame"
+
+msgid ""
+"Split the current line into a line which ends on the previous frame and a "
+"line which starts on the current frame"
+msgstr ""
+"Split the current line into a line which ends on the previous frame and a "
+"line which starts on the current frame"
+
+msgid "St&yle"
+msgstr "St&yle"
+
+msgid "St&yle Name"
+msgstr "St&yle Name"
+
+msgid "St&yling Assistant..."
+msgstr "St&yling Assistant..."
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Standard background"
+msgstr "Standard background"
+
+msgid "Standard foreground"
+msgstr "Standard foreground"
+
+msgid "Standard mode, double click sets position"
+msgstr "Standard mode, double click sets position"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Start Time"
+msgstr "Start Time"
+
+msgid "Start a&nd End times"
+msgstr "Start a&nd End times"
+
+msgid "Start time"
+msgstr "Start time"
+
+msgid "Starts after thres.:"
+msgstr "Starts after thres.:"
+
+msgid "Starts before thres.:"
+msgstr "Starts before thres.:"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Stop audio and video playback"
+msgstr "Stop audio and video playback"
+
+msgid "Stop playing"
+msgstr "Stop playing"
+
+msgid "Stop video"
+msgstr "Stop video"
+
+msgid "Stop video playback"
+msgstr "Stop video playback"
+
+msgid "Storage"
+msgstr "Storage"
+
+msgid "Strip tags"
+msgstr "Strip tags"
+
+msgid "Style"
+msgstr "Style"
+
+msgid "Style '%s' does not exist\n"
+msgstr "Style '%s' does not exist\n"
+
+msgid "Style Editor"
+msgstr "Style Editor"
+
+msgid "Style Name"
+msgstr "Style Name"
+
+msgid "Style for this line"
+msgstr "Style for this line"
+
+msgid "Style name"
+msgstr "Style name"
+
+msgid "Style name collision"
+msgstr "Style name collision"
+
+msgid "Style name conflict"
+msgstr "Style name conflict"
+
+msgid "Styles"
+msgstr "Styles"
+
+msgid "Styles Manager"
+msgstr "Styles Manager"
+
+msgid "Styles available"
+msgstr "Styles available"
+
+msgid "Styling Assistant"
+msgstr "Styling Assistant"
+
+msgid "Subs Only View"
+msgstr "Subs Only View"
+
+msgid "Subtitle Edit Box"
+msgstr "Subtitle Edit Box"
+
+msgid "Subtitle Editor"
+msgstr "Subtitle Editor"
+
+msgid "Subtitle Grid"
+msgstr "Subtitle Grid"
+
+msgid "Subtitle-local scripts"
+msgstr "Subtitle-local scripts"
+
+msgid "Subtitles provider"
+msgstr "Subtitles provider"
+
+msgid "Subtitles provider set to %s"
+msgstr "Subtitles provider set to %s"
+
+msgid "Swap Lines"
+msgstr "Swap Lines"
+
+msgid "Swap the two selected lines"
+msgstr "Swap the two selected lines"
+
+msgid "Syllable boundaries"
+msgstr "Syllable boundaries"
+
+msgid "Symbol"
+msgstr "Symbol"
+
+msgid "Symlink fonts to folder"
+msgstr "Symlink fonts to folder"
+
+msgid "Symlinking fonts to folder...\n"
+msgstr "Symlinking fonts to folder...\n"
+
+msgid "Synch point:"
+msgstr "Synch point:"
+
+msgid "Syntax Highlighting"
+msgstr "Syntax Highlighting"
+
+msgid "T&ext"
+msgstr "T&ext"
+
+msgid "T&ime"
+msgstr "T&ime"
+
+msgid "TTXT import"
+msgstr "TTXT import"
+
+msgid "TV standard"
+msgstr "TV standard"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Text encoding"
+msgstr "Text encoding"
+
+msgid "Text encoding:"
+msgstr "Text encoding:"
+
+msgid "Text formatting"
+msgstr "Text formatting"
+
+msgid "Text import options"
+msgstr "Text import options"
+
+msgid "Text to be used for the preview"
+msgstr "Text to be used for the preview"
+
+msgid "Thai"
+msgstr "Thai"
+
+msgid "The audio file was not found: "
+msgstr "The audio file was not found: "
+
+msgid ""
+"The chosen style catalogs will be loaded when you start a new file or import "
+"files in the various formats.\n"
+"\n"
+"You can set up style catalogs in the Style Manager."
+msgstr ""
+"The chosen style catalogs will be loaded when you start a new file or import "
+"files in the various formats.\n"
+"\n"
+"You can set up style catalogs in the Style Manager."
+
+msgid "The file was not recognised as an Automation script: %s"
+msgstr "The file was not recognised as an Automation script: %s"
+
+msgid ""
+"The resolution of the loaded video and the resolution specified for the "
+"subtitles don't match.\n"
+"\n"
+"Video resolution:\t%d x %d\n"
+"Script resolution:\t%d x %d\n"
+"\n"
+"Change subtitles resolution to match video?"
+msgstr ""
+"The resolution of the loaded video and the resolution specified for the "
+"subtitles don't match.\n"
+"\n"
+"Video resolution:\t%d x %d\n"
+"Script resolution:\t%d x %d\n"
+"\n"
+"Change subtitles resolution to match video?"
+
+msgid "The selected file has no available styles."
+msgstr "The selected file has no available styles."
+
+msgid "The source and destination styles must be different."
+msgstr "The source and destination styles must be different."
+
+msgid ""
+"The specified catalog name contains one or more illegal characters. They "
+"have been replaced with underscores instead.\n"
+"The catalog has been renamed to \"%s\"."
+msgstr ""
+"The specified catalog name contains one or more illegal characters. They "
+"have been replaced with underscores instead.\n"
+"The catalog has been renamed to \"%s\"."
+
+msgid "There are no updates to Aegisub."
+msgstr "There are no updates to Aegisub."
+
+msgid ""
+"There is already a style with the name \"%s\" in the current script. "
+"Overwrite?"
+msgstr ""
+"There is already a style with the name \"%s\" in the current script. "
+"Overwrite?"
+
+msgid ""
+"There is already a style with the name \"%s\" in the current storage. "
+"Overwrite?"
+msgstr ""
+"There is already a style with the name \"%s\" in the current storage. "
+"Overwrite?"
+
+msgid "There is already a style with this name. Please choose another name."
+msgstr "There is already a style with this name. Please choose another name."
+
+msgid "There is nothing to translate in the file."
+msgstr "There is nothing to translate in the file."
+
+msgid ""
+"There was an error checking for updates to Aegisub:\n"
+"%s\n"
+"\n"
+"If other applications can access the Internet fine, this is probably a "
+"temporary server problem on our end."
+msgstr ""
+"There was an error checking for updates to Aegisub:\n"
+"%s\n"
+"\n"
+"If other applications can access the Internet fine, this is probably a "
+"temporary server problem on our end."
+
+msgid "Thesaurus language"
+msgstr "Thesaurus language"
+
+msgid "Thesaurus suggestions for \"%s\""
+msgstr "Thesaurus suggestions for \"%s\""
+
+msgid "This may take several minutes"
+msgstr "This may take several minutes"
+
+msgid ""
+"This will install Aegisub {#BUILD_GIT_VERSION_STRING} on your computer.%n"
+"%nAegisub is covered by the GNU General Public License version 2. This means "
+"you may use the application for any purpose without charge, but that no "
+"warranties of any kind are given either.%n%nSee the Aegisub website for "
+"information on obtaining the source code."
+msgstr ""
+"This will install Aegisub {#BUILD_GIT_VERSION_STRING} on your computer.%n"
+"%nAegisub is covered by the GNU General Public License version 2. This means "
+"you may use the application for any purpose without charge, but that no "
+"warranties of any kind are given either.%n%nSee the Aegisub website for "
+"information on obtaining the source code."
+
+msgid "Thread priority"
+msgstr "Thread priority"
+
+msgid ""
+"Threshold for 'after end' distance, that is, how many milliseconds a "
+"subtitle must end after a keyframe to snap to it"
+msgstr ""
+"Threshold for 'after end' distance, that is, how many milliseconds a "
+"subtitle must end after a keyframe to snap to it"
+
+msgid ""
+"Threshold for 'after start' distance, that is, how many milliseconds a "
+"subtitle must start after a keyframe to snap to it"
+msgstr ""
+"Threshold for 'after start' distance, that is, how many milliseconds a "
+"subtitle must start after a keyframe to snap to it"
+
+msgid ""
+"Threshold for 'before end' distance, that is, how many milliseconds a "
+"subtitle must end before a keyframe to snap to it"
+msgstr ""
+"Threshold for 'before end' distance, that is, how many milliseconds a "
+"subtitle must end before a keyframe to snap to it"
+
+msgid ""
+"Threshold for 'before start' distance, that is, how many milliseconds a "
+"subtitle must start before a keyframe to snap to it"
+msgstr ""
+"Threshold for 'before start' distance, that is, how many milliseconds a "
+"subtitle must start before a keyframe to snap to it"
+
+msgid "Time by frame number"
+msgstr "Time by frame number"
+
+msgid "Time by h:mm:ss.cs"
+msgstr "Time by h:mm:ss.cs"
+
+msgid ""
+"Time code offset in incorrect format. Ensure it is entered as four groups of "
+"two digits separated by colons."
+msgstr ""
+"Time code offset in incorrect format. Ensure it is entered as four groups of "
+"two digits separated by colons."
+
+msgid "Time code offset:"
+msgstr "Time code offset:"
+
+msgid "Time codes"
+msgstr "Time codes"
+
+msgid "Time of this frame relative to start and end of current subs"
+msgstr "Time of this frame relative to start and end of current subs"
+
+msgid "Time: "
+msgstr "Time: "
+
+msgid "Times"
+msgstr "Times"
+
+msgid "Timing Post-Processor"
+msgstr "Timing Post-Processor"
+
+msgid "Timing:"
+msgstr "Timing:"
+
+msgid "Title:"
+msgstr "Title:"
+
+msgid "Toggle Bold"
+msgstr "Toggle Bold"
+
+msgid "Toggle Italics"
+msgstr "Toggle Italics"
+
+msgid "Toggle Strikeout"
+msgstr "Toggle Strikeout"
+
+msgid "Toggle Underline"
+msgstr "Toggle Underline"
+
+msgid "Toggle automatically seeking video to the start time of selected lines"
+msgstr "Toggle automatically seeking video to the start time of selected lines"
+
+msgid "Toggle autoscroll of video"
+msgstr "Toggle autoscroll of video"
+
+msgid "Toggle between \\move and \\pos"
+msgstr "Toggle between \\move and \\pos"
+
+msgid ""
+"Toggle bold (\\b) for the current selection or at the current cursor position"
+msgstr ""
+"Toggle bold (\\b) for the current selection or at the current cursor position"
+
+msgid ""
+"Toggle focus between the video slider and the previous thing to have focus"
+msgstr ""
+"Toggle focus between the video slider and the previous thing to have focus"
+
+msgid "Toggle global hotkey overrides"
+msgstr "Toggle global hotkey overrides"
+
+msgid "Toggle global hotkey overrides (Medusa Mode)"
+msgstr "Toggle global hotkey overrides (Medusa Mode)"
+
+msgid ""
+"Toggle italics (\\i) for the current selection or at the current cursor "
+"position"
+msgstr ""
+"Toggle italics (\\i) for the current selection or at the current cursor "
+"position"
+
+msgid "Toggle karaoke mode"
+msgstr "Toggle karaoke mode"
+
+msgid ""
+"Toggle strikeout (\\s) for the current selection or at the current cursor "
+"position"
+msgstr ""
+"Toggle strikeout (\\s) for the current selection or at the current cursor "
+"position"
+
+msgid "Toggle the main toolbar"
+msgstr "Toggle the main toolbar"
+
+msgid ""
+"Toggle underline (\\u) for the current selection or at the current cursor "
+"position"
+msgstr ""
+"Toggle underline (\\u) for the current selection or at the current cursor "
+"position"
+
+msgid "Toggle video slider focus"
+msgstr "Toggle video slider focus"
+
+msgid "Toolbar Icon Size"
+msgstr "Toolbar Icon Size"
+
+msgid ""
+"Total scripts loaded: %d\n"
+"Global scripts loaded: %d\n"
+"Local scripts loaded: %d\n"
+msgstr ""
+"Total scripts loaded: %d\n"
+"Global scripts loaded: %d\n"
+"Local scripts loaded: %d\n"
+
+msgid "Trace level"
+msgstr "Trace level"
+
+msgid "Track %02d: %s"
+msgstr "Track %02d: %s"
+
+msgid "Transform Framerate"
+msgstr "Transform Framerate"
+
+msgid ""
+"Transform subtitle times, including those in override tags, from an input "
+"framerate to an output framerate.\n"
+"\n"
+"This is useful for converting regular time subtitles to VFRaC time subtitles "
+"for hardsubbing.\n"
+"It can also be used to convert subtitles to a different speed video, such as "
+"NTSC to PAL speedup."
+msgstr ""
+"Transform subtitle times, including those in override tags, from an input "
+"framerate to an output framerate.\n"
+"\n"
+"This is useful for converting regular time subtitles to VFRaC time subtitles "
+"for hardsubbing.\n"
+"It can also be used to convert subtitles to a different speed video, such as "
+"NTSC to PAL speedup."
+
+msgid "Translate alignments"
+msgstr "Translate alignments"
+
+msgid "Translated into LANGUAGE by PERSON\n"
+msgstr "Translated into LANGUAGE by PERSON\n"
+
+msgid "Translation"
+msgstr "Translation"
+
+msgid "Translation Assistant"
+msgstr "Translation Assistant"
+
+msgid "Translation:"
+msgstr "Translation:"
+
+msgid "Turkish"
+msgstr "Turkish"
+
+msgid "UTF-8 Unicode (non-standard)"
+msgstr "UTF-8 Unicode (non-standard)"
+
+msgid "Undo %s"
+msgstr "Undo %s"
+
+msgid "Undo Levels"
+msgstr "Undo Levels"
+
+msgid "Undo last action"
+msgstr "Undo last action"
+
+msgid "Unsaved changes"
+msgstr "Unsaved changes"
+
+msgid "Untitled"
+msgstr "Untitled"
+
+msgid "Update Checker:"
+msgstr "Update Checker:"
+
+msgid "Update details:"
+msgstr "Update details:"
+
+msgid "Update script?"
+msgstr "Update script?"
+
+msgid "Updated by:"
+msgstr "Updated by:"
+
+msgid "Updating font cache\n"
+msgstr "Updating font cache\n"
+
+msgid "Updating font index"
+msgstr "Updating font index"
+
+msgid "Use Dummy Video"
+msgstr "Use Dummy Video"
+
+msgid "Use karaoke timing to split line into multiple smaller lines"
+msgstr "Use karaoke timing to split line into multiple smaller lines"
+
+msgid "Use resolution of first video opened"
+msgstr "Use resolution of first video opened"
+
+msgid "Use video's original aspect ratio"
+msgstr "Use video's original aspect ratio"
+
+msgid "Used in styles:\n"
+msgstr "Used in styles:\n"
+
+msgid "Used on lines:"
+msgstr "Used on lines:"
+
+msgid "V&ariable"
+msgstr "V&ariable"
+
+msgid "Value:"
+msgstr "Value:"
+
+msgid "Vector Clip"
+msgstr "Vector Clip"
+
+msgid "Version Checker"
+msgstr "Version Checker"
+
+msgid "Versions"
+msgstr "Versions"
+
+msgid "Vert"
+msgstr "Vert"
+
+msgid "Vertical Margin"
+msgstr "Vertical Margin"
+
+msgid "Vertical Margin (0 = default from style)"
+msgstr "Vertical Margin (0 = default from style)"
+
+msgid "Vertical zoom"
+msgstr "Vertical zoom"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video Details"
+msgstr "Video Details"
+
+msgid "Video Formats"
+msgstr "Video Formats"
+
+msgid "Video position"
+msgstr "Video position"
+
+msgid "Video provider"
+msgstr "Video provider"
+
+msgid "Video resolution:"
+msgstr "Video resolution:"
+
+msgid "Video+Subs View"
+msgstr "Video+Subs View"
+
+msgid "Video: %s"
+msgstr "Video: %s"
+
+msgid "Vie&w"
+msgstr "Vie&w"
+
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+msgid "View the event log"
+msgstr "View the event log"
+
+msgid "Visit Aegisub's bug tracker to report bugs and request new features"
+msgstr "Visit Aegisub's bug tracker to report bugs and request new features"
+
+msgid "Visit Aegisub's forums"
+msgstr "Visit Aegisub's forums"
+
+msgid "Visit Aegisub's official IRC channel"
+msgstr "Visit Aegisub's official IRC channel"
+
+msgid "Visit Aegisub's official website"
+msgstr "Visit Aegisub's official website"
+
+msgid "Visual Typesetting"
+msgstr "Visual Typesetting"
+
+msgid "Waveform"
+msgstr "Waveform"
+
+msgid "Waveform Display"
+msgstr "Waveform Display"
+
+msgid "Waveform Style"
+msgstr "Waveform Style"
+
+msgid "Website"
+msgstr "Website"
+
+msgid ""
+"When selected, display an opaque box behind the subtitles instead of an "
+"outline around the text"
+msgstr ""
+"When selected, display an opaque box behind the subtitles instead of an "
+"outline around the text"
+
+msgid ""
+"When the destination textbox has focus, use the following keys:\n"
+"\n"
+"Right Arrow: Increase dest. selection length\n"
+"Left Arrow: Decrease dest. selection length\n"
+"Up Arrow: Increase source selection length\n"
+"Down Arrow: Decrease source selection length\n"
+"Enter: Link, accept line when done\n"
+"Backspace: Unlink last"
+msgstr ""
+"When the destination textbox has focus, use the following keys:\n"
+"\n"
+"Right Arrow: Increase dest. selection length\n"
+"Left Arrow: Decrease dest. selection length\n"
+"Up Arrow: Increase source selection length\n"
+"Down Arrow: Decrease source selection length\n"
+"Enter: Link, accept line when done\n"
+"Backspace: Unlink last"
+
+msgid "Widescreen (16:9)"
+msgstr "Widescreen (16:9)"
+
+msgid "Wrap Style: "
+msgstr "Wrap Style: "
+
+msgid ""
+"You already have timecodes loaded. Would you like to replace them with "
+"timecodes from the video file?"
+msgstr ""
+"You already have timecodes loaded. Would you like to replace them with "
+"timecodes from the video file?"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+msgid "Zoom video in"
+msgstr "Zoom video in"
+
+msgid "Zoom video out"
+msgstr "Zoom video out"
+
+msgid "actor change"
+msgstr "actor change"
+
+msgid "adjoin"
+msgstr "adjoin"
+
+msgid "all"
+msgstr "all"
+
+msgid "attach font file"
+msgstr "attach font file"
+
+msgid "attach graphics file"
+msgstr "attach graphics file"
+
+msgid "backward"
+msgstr "backward"
+
+msgid "change script resolution"
+msgstr "change script resolution"
+
+msgid "clear line"
+msgstr "clear line"
+
+msgid "combining"
+msgstr "combining"
+
+msgid "comment change"
+msgstr "comment change"
+
+msgid "cut lines"
+msgstr "cut lines"
+
+msgid "delete control point"
+msgstr "delete control point"
+
+msgid "delete lines"
+msgstr "delete lines"
+
+msgid "duplicate lines"
+msgstr "duplicate lines"
+
+msgid "e"
+msgstr "e"
+
+msgid "effect change"
+msgstr "effect change"
+
+msgid "forward"
+msgstr "forward"
+
+msgid "from %d onward"
+msgstr "from %d onward"
+
+msgid "insert original"
+msgstr "insert original"
+
+msgid "join as karaoke"
+msgstr "join as karaoke"
+
+msgid "join lines"
+msgstr "join lines"
+
+msgid "kanji timing"
+msgstr "kanji timing"
+
+msgid "karaoke split"
+msgstr "karaoke split"
+
+msgid "karaoke timing"
+msgstr "karaoke timing"
+
+msgid "layer change"
+msgstr "layer change"
+
+msgid "left margin change"
+msgstr "left margin change"
+
+msgid "line insertion"
+msgstr "line insertion"
+
+msgid "modify text"
+msgstr "modify text"
+
+msgid "modify times"
+msgstr "modify times"
+
+msgid "move lines"
+msgstr "move lines"
+
+msgid "paste"
+msgstr "paste"
+
+msgid "positioning"
+msgstr "positioning"
+
+msgid "property changes"
+msgstr "property changes"
+
+msgid "remove attachment"
+msgstr "remove attachment"
+
+msgid "replace"
+msgstr "replace"
+
+msgid "resolution resampling"
+msgstr "resolution resampling"
+
+msgid "revert line"
+msgstr "revert line"
+
+msgid "right margin change"
+msgstr "right margin change"
+
+msgid "s"
+msgstr "s"
+
+msgid "s+e"
+msgstr "s+e"
+
+msgid "sel "
+msgstr "sel "
+
+msgid "set color"
+msgstr "set color"
+
+msgid "set font"
+msgstr "set font"
+
+msgid "shift to frame"
+msgstr "shift to frame"
+
+msgid "shifting"
+msgstr "shifting"
+
+msgid "snap to scene"
+msgstr "snap to scene"
+
+msgid "sort"
+msgstr "sort"
+
+msgid "spell check replace"
+msgstr "spell check replace"
+
+msgid "split"
+msgstr "split"
+
+msgid "splitting"
+msgstr "splitting"
+
+msgid "strip tags"
+msgstr "strip tags"
+
+msgid "style change"
+msgstr "style change"
+
+msgid "style copy"
+msgstr "style copy"
+
+msgid "style delete"
+msgstr "style delete"
+
+msgid "style import"
+msgstr "style import"
+
+msgid "style move"
+msgstr "style move"
+
+msgid "style paste"
+msgstr "style paste"
+
+msgid "styling assistant"
+msgstr "styling assistant"
+
+msgid "swap lines"
+msgstr "swap lines"
+
+msgid "timing"
+msgstr "timing"
+
+msgid "timing processor"
+msgstr "timing processor"
+
+msgid "toggle bold"
+msgstr "toggle bold"
+
+msgid "toggle italic"
+msgstr "toggle italic"
+
+msgid "toggle strikeout"
+msgstr "toggle strikeout"
+
+msgid "toggle underline"
+msgstr "toggle underline"
+
+msgid "translation assistant"
+msgstr "translation assistant"
+
+msgid "unsaved"
+msgstr "unsaved"
+
+msgid "untitled"
+msgstr "untitled"
+
+msgid "vertical margin change"
+msgstr "vertical margin change"
+
+msgid "visual typesetting"
+msgstr "visual typesetting"
+
+msgid "x"
+msgstr "x"
