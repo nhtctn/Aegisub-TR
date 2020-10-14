@@ -1,3 +1,5 @@
+DENEME
+
 msgid ""
 msgstr ""
 "Project-Id-Version: Aegisub 3.2\n"
