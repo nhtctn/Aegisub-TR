@@ -1,4 +1,5 @@
 DENEME
+DENEME2
 
 msgid ""
 msgstr ""
